@@ -1,0 +1,1883 @@
+﻿id	internalname	tag	comment	en	fr	de	es
+0	cardname_open_road	1		Open Road	route	offener Straße	carretera
+1	cardname_customs_officer	1		Customs Officer			
+2	cardname_goblin_flashmob	1		Goblin Flashmob			
+3	cardname_yelps	1		Yelps			
+4	cardname_general_graardor	1		General Graardor			
+5	cardname_ogre	1		Ogre Brute			
+6	cardname_troll_shaman	1		Troll Shaman			
+7	cardname_troll_brute	1		Troll Brute			
+8	cardname_troll_chucker	1		Troll Chucker			
+9	cardname_gluttonous_behemoth	1		Gluttonous Behemoth			
+10	cardname_vorago	1		Vorago			
+11	cardname_tztok_jad	1		TzTok-Jad			
+12	cardname_penguin_sheep	1		Penguin Sheep			
+13	cardname_kgp_agent	1		KGP Agent			
+14	cardname_jubbly_bird	1		Jubbly Bird			
+15	cardname_mischievous_imp	1		Mischievous Imp	Poulet		
+16	cardname_combat_academy	1		Combat Academy			
+17	cardname_lady_deathknell	1		Lady Deathknell			
+18	cardname_warriors_guild	1		Warriors' Guild			
+19	cardname_wizard_traiborn	1		Wizard Traiborn			
+20	barfight	1		Bar Fight			
+21	cardname_harrallak_menarous	1		Harrallak Menarous			
+22	cardname_burntmeat	1		Burntmeat			
+23	cardname_my_arm	1		My Arm			
+24	cardname_cabbage	1		Cabbage			
+25	cardname_elidinis_statuette	1		Elidinis Statuette			
+26	cardname_solomon_madini	1		Solomon Madini			
+27	cardname_gorajo_hoardstalker	1		Gorajo Hoardstalker			
+28	cardname_pile_of_sharks	1		Pile of Sharks			
+29	cardname_ali_morrisane	1		Ali Morrisane			
+30	cardname_nastroth	1		Nastroth			
+31	carddesc_open_road	2		We were hitchhiking down a long and lonesome road…			
+32	carddesc_bentnoze_and_wartface	2		TODO - This way, no that way…			
+33	carddesc_goblin_raiders	2		TODO - No-one expects the goblin flashmob			
+34	carddesc_yelps	2		TODO - Money money money			
+35	carddesc_general_graardor	2		TODO - Damnit Graardor….			
+36	carddesc_ogre	2		TODO - Opening Game Radish Experience			
+37	carddesc_troll_shaman	2		TODO - Storm, earth and fire, heed my call!			
+38	carddesc_troll_brute	2		TODO - Et tu, Brute?			
+39	carddesc_troll_chucker	2		TODO - Throws anything; rocks, small cars, greenhouses...			
+40	carddesc_queen_black_dragon	2		TODO - ProTip: Never fight in the first round			
+41	carddesc_vorago	2		TODO - Vorago Morago Blorago			
+42	carddesc_tztok_jad	2		TODO - Otherwise known as 'Big Spikey Dog'			
+43	carddesc_penguin_sheep	2		TODO - Or as I like to call it, a pengueep			
+44	carddesc_pascaling_pax	2		TODO - Pascaling Pax Description			
+45	carddesc_cow	2		TODO - Moo			
+46	carddesc_chicken	2		TODO - Cluck!			
+47	carddesc_combat_academy	2		TODO - Have at ye foul training dummy!			
+48	carddesc_lady_deathknell	2		TODO - Lady Deathknell Description			
+49	carddesc_warriors_guild	2		TODO - Warriors Guild Description			
+50	carddesc_wizard_traiborn	2		TODO - Hocus pocus…			
+51	carddesc_beer	2		TODO - Not as good as wine, E29			
+52	carddesc_harrallak_menarous	2		TODO - I'm paranoid this is actually King Charles II			
+53	carddesc_burntmeat	2		TODO - You can ask for rare or medium, but he only cooks to one standard.			
+54	carddesc_my_arm	2		TODO - RS Fact: Trolls are named after the first thing they ate.			
+55	carddesc_cabbage	2		TODO - Cabbages. Cabbages. Cabbages.			
+56	carddesc_elidinis_statuette	2		TODO - A shrine for the goddess Elidinis			
+57	carddesc_solomon_madini	2		TODO - His store is 'bigger on the inside'. Possible time traveler.			
+58	carddesc_gorajo_hoardstalker	2		TODO - Owner of the worlds finest treasure room.			
+59	carddesc_pile_of_sharks	2		TODO - Next up; a pile of loan sharks.			
+60	carddesc_ali_morrisane	2		TODO - I always read this as Alanis Morissette			
+61	carddesc_gudrik	2		TODO - Small, has one arm, and would still probably drink you under the table.			
+62	attack	0		Total Attack	Force	Stärke	Fuerza
+63	health	0		Health	Santé	Gesundheit	Salud
+64	gold	0		Gold	Or	Gold	Oro
+65	rust_trait	0		Rust			
+66	healer_trait	0		Healer	askdas		
+67	sweet_talk_trait	0		Sweet Talk			
+68	toughness_trait	0		Toughness			
+69	traits	0		Traits	french test	german test	spanish test
+70	healer_desc	0	Coloured text (green)	[008000ff]Healer:[-]+1 health each slot			
+71	rust_desc	0	Coloured text (green)	[ff0000ff]Rust:[-]-1 weapon & armour durability each slot			
+72	sweet_talk_desc	0	Coloured text (red)	[008000ff]Sweet Talk:[-] -1 gold costs			
+73	toughness_desc	0	Coloured text (green)	[008000ff]Toughness[-] -1 damage each hit			
+74	none	0		None			
+75	combat_deck_name	0		Combat	Combat	Kampf	Combate
+76	non_combat_deck_name	0		Non-Combat	Non-Combat	Nicht-Kampf	no es de combate
+77	submit_button	0		Play			
+78	ok	0		OK	OK	OK	OK
+79	yes	0		Yes	Oui	Ya	Si
+80	no	0		No	Non	Nein	
+81	join_game	0		Join Game	Commence		
+82	next	0		Next	suivant	nächste	próximo
+83	previous	0		Previous	précédent	früher	anterior
+84	current_language	0		Current Language			
+85	english	0		English	Anglais	Englisch	Inglés
+86	french	0		French	Français	Französisch	Francés
+87	german	0		German	Allemand	Deutsch	Alemán
+88	portuguese	0		Portuguese			
+89	spanish	0		Spanish			
+90	spanish_latam	0		Spanish (Latin American)			
+91	dutch	0		Dutch			
+92	alert_card_swap	0		Drag a card to a slot to swap it			
+93	empty_card_warning	0		Are you sure you don't want to play any cards this chapter?			
+94	quest_failed	0		Defeat			
+95	quest_success	0		Victory			
+96	waiting_for_players	0		Waiting for an opponent…			
+97	found_game	0		Found a game!			
+98	offline	0		Practice			
+99	weapon	0		Weapon			
+100	connection_failed	0		The Chronicle game server is currently offline.			
+101	armour	0		Armour			
+102	linza	0		Linza	Linza	Linza	Linza
+103	invalid_ip	0		IP Address entered is invalid.			
+104	raptor	0		The Raptor	The Raptor	The Raptor	The Raptor
+105	weapon_traits	0		Weapon Traits			
+106	armour_traits	0		Armour Traits			
+107	cardname_placeholder	1		Placeholder			
+108	carddesc_placeholder	2		Placeholder desc			
+109	cardname_linza_artisanworkshop	1		Artisan's Workshop			
+110	carddesc_linza_artisanworkshop	2		TODO - Paints, PVA glue, glitter. Everything a adventurer would need.			
+111	cardname_linza_dragon_forge	1		Dragon Forge			
+112	carddesc_linza_dragon_forge	2		TODO - Where the band DragonForce like to hang out.			
+113	cardname_linza_bartak_anvil	1		Bartak's Anvil			
+114	carddesc_linza_bartak_anvil	2		TODO - It has three heads for his…three hands?			
+115	cardname_linza_doric	1		Doric			
+116	carddesc_linza_doric	2		TODO - Dwarf master smith and warrior. Also likes the colour blue.			
+117	cardname_linza_goldenhammer	1		Golden Hammer			
+118	carddesc_linza_goldenhammer	2		TODO - Thor's hammer has nothing on this.			
+119	cardname_raptor_extremedefence	1		Defence Potion			
+120	carddesc_raptor_extremedefence	2		TODO - Now made with REAL sheild fragments.			
+121	cardname_raptor_fulltetsu	1		Full Tetsu			
+122	carddesc_raptor_fulltetsu	2		TODO - Tetsu sushi			
+123	cardname_raptor_stackosharks	1		Stack o' Sharks			
+124	carddesc_raptor_stackosharks	2		TODO - Next up; a stack of loan sharks.			
+125	cardname_raptor_dondakancannon	1		Dondakan's Cannon			
+126	carddesc_raptor_dondakancannon	2		TODO - Used to fire Raptor shaped projectiles.			
+127	cardname_raptor_rockcake	1		Rock Cake			
+128	carddesc_raptor_rockcake	2		TODO - Now made with REAL rocks!			
+129	empty_deck_message	0		No cards left in this deck			
+130	no_draws_warning	0		Hand full - Skipping draw phase			
+131	store	0		Store			
+132	draws_remaining	0		{0} Draws Remaining	test {0} french		
+133	x_seconds_left	0		{0} Seconds Left			
+134	draw_phase_started	0		Turn started			
+135	ready	0		Ready!			
+136	cardname_black_arm_bandit	1		Black Arm Bandit			
+137	carddesc_gen_man	2		TODO - A man. Just a man.			
+138	cardname_gen_elvarg	1		Elvarg			
+139	carddesc_gen_elvarg	2		TODO - Female green dragon.			
+140	cardname_raging_kalphite	1		Raging Kalphite			
+141	carddesc_gen_dragonkin	2		TODO - Guardians of the Stone of Jas			
+142	cardname_romily_weaklax	1		Romily Weaklax			
+143	carddesc_gen_lumbridgecook	2		TODO - Nom nom nom nom			
+144	cardname_gen_rottenpotato	1		Rotten Potato			
+145	carddesc_gen_rottenpotato	2		TODO - THE power of the universe.			
+146	cardname_mimic	1		Mimic			
+147	carddesc_gen_gravestone	2		TODO  - Otherwise known as 'item shop'			
+148	cardname_gen_bobthecat	1		Bob the Cat			
+149	carddesc_gen_bobthecat	2		TODO - I should buy a boat.			
+150	cardname_gen_death	1		Death			
+151	carddesc_gen_death	2		TODO - Otherwise known as Harold Death Esquire, GCSE, BsC			
+152	cardname_gen_partyhat	1		Partyhat			
+153	carddesc_gen_partyhat	2		TODO - The most valuable item around!			
+154	cardname_gen_highwayman	1		Highwayman			
+155	carddesc_gen_highwayman	2		TODO - Your money or your…money.			
+156	cardname_raptor_steeltitan	1		Steel Titan			
+157	carddesc_raptor_steeltitan	2		TODO - Summoning familiar			
+158	cardname_raptor_restorepotion	1		Restore Potion			
+159	carddesc_raptor_restorepotion	2		TODO - Made from the finest blood.			
+160	hero_stats	0		Legend Stats			
+161	deck_management	0		Cards			
+162	leaderboards	0		HiScores			
+163	options	0		Options			
+164	dead	0		Dead			
+165	mulligan_phase_started	0		Select any number of cards to replace them			
+166	cardname_miner_ancestor	1		Miner Ancestor			
+167	carddesc_linza_dustdevil	2		TODO - Upgrades into a Tasmanian Devil			
+168	cardname_linza_card7	1		LINZA NOT YET USED			
+169	carddesc_linza_card7	2		TODO - ??? Description			
+170	opponent_disconnected	0		Your opponent has disconnected from the game			
+171	return_to_deck	0		Confirm			
+183	logout	0		Log Out			
+184	login	0		Log In			
+185	hoarder	0		Linza			
+186	tank	0		The Raptor			
+187	cardname_eadgar	0		Eadgar			
+188	carddesc_eadgar	0		Eadgar			
+189	exit_game	0		Quit			
+190	concede	0		Concede Game			
+191	twitch	0		Twitch			
+192	settings	0		Settings			
+193	confirm_exit	0		Are you sure you want to exit?			
+194	confirm_logout	0		Are you sure you want to logout?			
+195	confirm_concede	0		Are you sure you want to concede?			
+196	music	0		Music			
+197	sound	0		Sound			
+198	display_options	0		Open the options menu			
+199	enter_username	0		Enter your username			
+200	tooltip_player_health_desc	0		Your health			
+201	tooltip_player_gold_desc	0		Used to play Support cards.			
+202	tooltip_player_attack_desc	0		How much damage your Legend does each hit in combat.			
+203	tooltip_player_armour_desc	0		Your armour.			
+204	tooltip_player_weapon_desc	0		Your current weapon.			
+205	tooltip_options_title	0		Game Options			
+206	tooltip_rival_health	0		Rival's health.			
+207	tooltip_rival_gold	0		Rival's gold.			
+208	tooltip_rival_armour	0		Rival's armour.			
+209	tooltip_rival_attack	0		How much damage your rival does each hit in combat.			
+210	tooltip_rival_weapon	0		Rival's weapon.			
+211	tooltip_friends_title	0		Friends			
+212	cardname_skeleton	1		Skeleton Warrior			
+213	carddesc_skeleton	2		TODO - Every RPG and game needs fighting skeletons. It's somesort of law.			
+214	cardname_giant_rat	1		Giant Rat			
+215	carddesc_giant_rat	2		TODO - It's giant. And it's  rat. Ta da!			
+216	cardname_white_wolf	1		White Wolf			
+217	carddesc_white_wolf	2		TODO - A bit like a black wolf. Except covered in Tipex.			
+218	cardname_alkharid_warrior	1		Al Kharid Warrior			
+219	carddesc_alkharid_warrior	2		TODO - A warrior of desserts, or was that a desert.			
+220	cardname_imp	1		Imp			
+221	carddesc_imp	2		TODO - You could call it very imp-ressive. Ho ho ho.			
+222	cardname_barbarian	1		Barbarian Warrior			
+223	carddesc_barbarian	2		TODO - Ruggh…urrgh…gruu! It's a barbarian life for me (doesn't work as well)			
+224	cardname_crassian_warrior	1		Crassian Warrior			
+225	carddesc_crassian_warrior	2		TODO - There will be no accusations, just friendly crustaceans under the…seeeeeeea.			
+226	cardname_grotworm	1		Grotworm			
+227	carddesc_moss_giant	2		TODO - Basically a walking shrubbery.			
+228	cardname_ice_nihil	1		Ice Nihil			
+229	carddesc_ice_nihil	2		TODO - Don't leave it next to heaters			
+230	cardname_automaton_guardians	1		Automaton Guardian			
+231	carddesc_automaton_guardians	2		TODO - Like an autobot			
+232	cardname_corporeal_beast	1		Corporeal Beast			
+233	carddesc_corporeal_beast	2		TODO - Next rank up; sargent beasty.			
+234	cardname_tormented_demons	1		Tormented Demon			
+235	carddesc_tormented_demons	2		TODO - Not as good as fermented demons.			
+236	cardname_thurgo	1		Thurgo			
+237	carddesc_thurgo	2		TODO - Redberry pie is his weakness.			
+256	loc_missing	0		Localisation missing!			
+257	multiplayer	0		Play			
+258	combat_cards	0		Creature			
+259	non_combat_cards	0		Adventure			
+260	play	0		Play			
+261	effect_give_hero_10g_on_card_death	0		On Death: Give player 10 gold			
+262	create_game	0		Create Game			
+263	casual_match	0		Casual Mode			
+264	select_opponent	0		Select Opponent			
+265	cancel	0		Cancel			
+267	attempting_join	0		Attempting to join game.			
+268	not_enough_gold	0		Not enough gold			
+269	highlights	0		Highlights			
+270	statistics	0		Statistics			
+275	tooltip_dailyquests_title	0		Daily Quests			
+276	trait_desc	0		Active traits			
+277	no_traits	0	Coloured text (grey)	[808080ff]No traits present[-]			
+278	tutorial_buildphase_01	0		This is your hand of cards.			
+279	tutorial_buildphase_24	0		A maximum of 10 cards can be in your hand.			
+280	tutorial_watchphase_12	0		<color=yellow><b>Armour</b></color> protects your Legend's <color=yellow><b>Health</b></color> from damage.\n\nThere is no maximum amount of Armour.			
+281	tutorial_watchphase_01	0		How much damage your Legend does each hit in combat.			
+282	tutorial_watchphase_04	0		Your Legend encounters cards in the order you placed them.			
+283	tutorial_watchphase_10	0		<color=yellow><b>Health rewards</b></color> heal your Legend.			
+284	tutorial_watchphase_07	0		The amount of <color=yellow><b>Gold</b></color> your Legend has collected.			
+285	tutorial_legendboxintro_body	0		This is your first Chronicle Legend.\n\nThere are many Legends to collect, each bringing their own play style and personality to the game.\n\nClick the Legend box to open it.			
+286	tutorial_buildphase_06	0		<color=yellow><b>Creature cards</b></color> have <color=yellow><b>Attack</b></color> and <color=yellow><b>Health</b></color> stats.			
+287	tutorial_watchphase_19	0		In a normal game, not every slot needs to have a card.			
+288	tutorial_buildphase_19	0		This is the final Chapter.			
+289	tutorial_watchphase_08	0		<color=yellow><b>Support Cards</b></color> use <color=yellow><b>Gold</b></color> your Legend has collected.			
+290	tutorial_buildphase_25	0		In this chapter you can only afford one Support Card.			
+291	tutorial_title	0		Tutorial			
+292	tutorial_watchphase_09	0		If your Legend ever has 0 <color=yellow><b>Health</b></color>, you lose!			
+293	tutorial_watchphase_02	0		Creatures die when they have 0 <color=yellow><b>Health</b></color>.			
+294	tutorial_watchphase_05	0		Creatures drop <color=yellow><b>rewards</b></color> when defeated.			
+295	tutorial_watchphase_06	0		Collecting that <color=yellow><b>Base Attack reward</b></color> increased your Legend's damage in combat!			
+296	draw_cards	0		Draw cards			
+297	card_drawn	0		Card drawn			
+298	replace_cards	0		Opening Hand			
+299	replacing_cards	0		Replacing cards			
+300	place_cards	0		Place cards			
+301	placing_cards	0		Placing cards			
+302	placed_cards	0		Finished placing cards			
+303	watching_game	0		Watching the game			
+304	waiting_for_opponent	0		Waiting for opponent			
+305	round_x	0		Chapter {0}			
+306	create_game_server	0		Setting up new game			
+307	create_game_failed	0		Unable to create new game. Please try again.			
+308	game_list	0		Available Games			
+309	game_full	0		This game is now full. Please select another.			
+310	tutorial_watchphase_13	0		Your <color=yellow><b>rival</b></color> encounters their own cards.			
+311	drawing_cards	0		Drawing cards			
+312	draw_x_cards	0		Draw {0} cards			
+313	legend_description_raptor	0		An unstoppable force - access to lots of armour and health			
+314	legend_description_linza	0		One of the best smiths - great at gaining and improving weapons			
+315	error	0		Error			
+316	waiting	0		Waiting			
+317	username	0		Display Name			
+318	cost_warning	0		This costs gold to use. Make sure you have earned enough by the time your legend encounters it!			
+320	tut_mission3_05	0		<b>Weapon durability</b> decreases each time the Legend hits in combat.			
+321	tut_mission3_06	0		Cards can also effect you			
+322	tut_mission3_07	0		Gold cards can be free!			
+323	tutorial_watchphase_03	0		If not defeated, creatures hit back for this amount of damage.			
+324	tutorial_buildphase_09	0		These are your <color=yellow><b>rival's stats</b></color>.\n\nIf their <color=yellow><b>Health</b></color> reaches 0, you win!			
+325	tutorial_buildphase_20	0		To complete this chapter you must place <color=yellow><b>4 cards</b></color> before continuing.			
+326	connection_dropped	0		Connection to the server has been dropped.			
+327	playback_error	0		An error occurred during playback. The game has been ended early			
+328	card_tooltip_keyword_strike	0		<b><i>Strike</i></b>\nA single hit of Attack at a target.			
+329	card_tooltip_keyword_battle	0		<b><i>Battle</i></b>\nA single hit of Attack at a target. The target then hits back.			
+330	card_tooltip_keyword_temporary	0		<b><i>Temporary</i></b>\nGain a stat increase which lasts for the next slot. Does not last between chapters or into the final fight on Chapter 5.			
+331	card_tooltip_keyword_spend	0		<b><i>Spend</i></b>\nLose something so an effect can happen.			
+332	card_tooltip_armour	0		Armour reward			
+333	cardname_newpete1	1		Crazy Pete Card 1			
+334	cardname_newpete2	1		Crazy Pete Card 2			
+335	cardname_newpete3	1		Crazy Pete Card 3			
+336	cardname_newpete4	1		Crazy Pete Card 4			
+337	cardname_newpete5	1		Crazy Pete Card 5			
+338	cardname_newpete6	1		Crazy Pete Card 6			
+339	cardname_newpete7	1		Crazy Pete Card 7			
+340	cardname_newpete8	1		Crazy Pete Card 8			
+341	cardname_newpete9	1		Crazy Pete Card 9			
+342	cardname_newpete10	1		Crazy Pete Card 10			
+354	cardname_newpete11	1		Crazy Pete Card 11			
+357	cardname_newpete12	1		Crazy Pete Card 12			
+358	cardname_newpete13	1		Crazy Pete Card 13			
+360	cardname_newpete14	1		Crazy Pete Card 14			
+362	cardname_newpete15	1		Crazy Pete Card 15			
+364	password	0		Password			
+370	leave_deck_manager	0		Are you sure you want to stop editing this deck? All unsaved changes will be lost.			
+371	rename_deck	0		Rename Deck			
+372	delete_deck	0		Delete Deck			
+373	create_deck	0		Create Deck			
+374	save_deck	0		Save Deck			
+375	done	0		Done			
+376	deck_list_title	0		My Decks			
+377	draws_remaining_nocount	0		Number of draws remaining			
+378	deck_contents	0		Adventure cards: {0}\nCreature cards: {1}			
+381	quest_draw	0		Draw			
+389	confirm_save_deck	0		This deck cannot be used until there are at least 30 cards in it. Are you sure you wish to stop editing it?			
+390	confirm_delete_deck	0		Are you sure you want to delete the deck named {0}?			
+391	login_bad_credentials	0		Login failed: incorrect username or password.			
+392	login_general_error	0		Login failed: unknown error. Please check your credentials are correct and try again.			
+393	current_deck_size_x	0		Cards: {0}			
+394	min_deck_size_x	0		(Min: {0})			
+395	max_deck_size_x	0		(Max: {0})			
+396	VarrockGuard	1		Varrock Guard			
+397	double_armour_if_under_10	3		Double legend armour as long as it is under 10			
+398	discard_card_warning	0		Destroy this card and gain 1 Gold?			
+399	xp	0		XP			
+400	level	0		Level			
+401	effect_pvp_attack_both	3		Both legends attack each other.			
+402	effect_pvp_attack	3		Your legend attacks the opponent legend			
+403	accept_hand	0		Confirm			
+404	Gluttonous_Behemoth_Effect_Desc	3		Gain Health to maximum.			
+405	vorago_effect_desc	3		Equip a 5/5 weapon.\nGain Weapon Attack equal to rival's Base Attack.			
+406	tztokjad_effect_desc	3		No effect.			
+407	corprealbeast_effect_desc	3		Gain Armour equal to your Health.			
+408	tormenteddemon_effect	3		Deal 4 damage to both Legends.			
+409	raging_kalphite_effect_desc	3		<b><i>Remove</i></b> all Armour from rival.			
+410	elvarg_effect	3		Gain Attack equal to half base Attack			
+411	icenihil_effect_desc	3		Gain Armour equal to rival's Total Attack.			
+412	icenihil_effect_desc1	3		Gain gold equal to half opponent has			
+413	trollchucker_effect_desc	3		Deal 4 damage to rival.			
+414	whitewolf_effect_desc	3		Draw 2 cards.\nTake 2 damage.			
+415	crassianwarrior_effect_desc	3		Draw 2 cards.			
+416	miner_ancestor_effect_desc	3		Gain 2 Weapon Durability.\nDraw 1 card.			
+417	alkharidguard_effect_desc	3		Steal up to 2 Gold from rival.			
+418	varrockguard_effect_desc	3		Gain Armour equal to half rival's Gold.			
+419	penguinsheep_effect_desc	3		<b><i>Spend</i></b> 1 Base Attack and gain 5 Gold.			
+420	kgp_agent_effect_desc	3		Discard 1 random card.			
+421	mischievous_imp_effect_desc	3		Draw 1 card.			
+422	giantrat_effect_desc	3		<b><i>Remove</i></b> 2 Weapon Durability from rival.			
+423	imp_effect_desc	3		Steal 2 health from opponent			
+424	barfight_effect_desc	3		<i><b>Remove</b></i> 2 Weapon Durability from both Legends.\n<i><b>Battle</i></b> rival.			
+425	alimorrisane_effect_Desc	3		<i><b>Remove</b></i> weapon.			
+426	artisanworkshop_effect_desc	3		Gain 3 Weapon Durability.			
+427	bartakanvil_effect_desc	3		Your Weapon Attack equals its Durability.			
+428	bobthecat_effect	3		Opponent hits you. Steal gold equal to opponent attack			
+429	burntmeat_effect_desc	3		Draw 4 cards.			
+430	death_effect_desc	3		<b><i>Remove</i></b> <b><i>half</i></b> of rival's Health.			
+431	doric_effect_desc	3		Deal 4 damage to rival.			
+432	dragonforge_effect_desc	3		<i><b>Spend</b></i> Gold equal to your Weapon Durability and double your Weapon Durability.			
+433	mimic_effect_desc	3		<i><b>Remove</b></i> 5 Health.			
+434	highwayman_effect_desc	3		Steal rival's weapon.			
+435	yelps_effect_desc	3		If you have 8 or less Gold, double it.			
+436	steeltitan_effect_desc	3		Deal 5 damage to rival.			
+437	stackofsharks_effect_desc	3		<b><i>Mortal:</i></b> Double your Health.			
+438	rockcake_effect_desc	3		<i><b>Remove</b></i> 3 Health.			
+439	partyhat_effect_desc	3		Discard 3 random cards.\nDouble your Gold.			
+440	restorepotion_efffect_desc	3		Draw 2 cards.			
+441	thurgo_effect_desc	3		Gain 3 Weapon Attack.			
+442	cardname_gnome_healer	1		Gnome Healer			
+443	amulet_of_fury	1		Amulet of Fury			
+444	bandit_camp	1		Bandit Camp			
+445	bandit_camp_effect	3		<i><b>Remove</b></i> Health from rival equal to half their Gold.			
+446	barrelchest	1		Barrelchest			
+447	barrelchest_effect_desc	3		Weapon gains +2/+2.			
+449	bash	1		Bash			
+450	bash_effect_desc	3		Rival takes 3 damage and loses 2 Weapon Durability.			
+451	bounty_hunt	1		Bounty Hunt			
+452	bounty_hunt_effect	3		Discard 1 random card.\n<i><b>Strike</i></b> next Creature.			
+453	deadshot	1		Deadshot			
+454	deadshot_effect_desc	3		If rival has more than 20 health, deal 7 damage to them.			
+455	assault	1		Assault			
+456	assault_effect_desc	3		<i><b>Spend</b></i> 2 Armour and deal 4 damage to your rival.			
+457	automaton_effect_desc	3		<i><b>Remove</b></i> 4 Health from your next Creature.\nDeal 4 damage to rival.			
+458	bentnoze_effect	3		Gain Gold equal to <i><b>half</i></b> of rival's Gold.			
+459	bobthecat_effect1	3		Steal gold equal to total opponent attack & take same as damage			
+460	preparation	1		Preparation			
+461	preparation_effect_desc	3		Gain Gold equal to <i><b>half</i></b> your next Creature's Attack.			
+462	brugsen_bursen	1		Brugsen Bursen			
+463	brugsen_bursen_effect	3		Add 4 cost to rival's next Support.			
+464	bunyip	1		Bunyip			
+465	bunyip_effect	3		<i><b>Remove</b></i> 3 Attack from your next Creature.			
+466	captain_rovin	1		Captain Rovin			
+467	captainrovin_effect_desc	3		Make your next Support free. <b><i>Remove</i></b> all your Gold.			
+468	darren_lightfinger	1		Darren Lightfinger			
+469	daren_lightfinger_effect_desc	3		Discard 1 random card.\n<i><b>Remove</b></i> 4 cost from your next Support.			
+470	death_lotus_assassin	1		Death Lotus Assassin			
+471	death_lotus_assassin_effect_desc	3		Deal 8 damage to rival.			
+472	defence_potion_effect	3		<i><b>Remove</b></i> 4 Attack from your next Creature.			
+473	dondakan_cannon_effect_desc	3		Deal damage to rival equal to <b><i>half</i></b> your Armour.			
+474	dragon_longsword	1		Dragon Longsword			
+475	dragonbone_upgrade	1		Dragonbone Upgrade			
+476	dragonbone_upgrade_effect_desc	3		Weapon gains +1/+1.			
+477	duel_tournament	1		Duel Tournament			
+478	duel_tournament_effect	3		<i><b>Battle</i></b> rival.\nDraw 1 card.			
+479	fight_cauldron	1		Fight Cauldron			
+480	fight_cauldron_effect	3		<i><b>Remove</b></i> 8 Health.			
+481	fight_pit	1		Fight Pit			
+482	fight_pit_effect_desc	3		Gain Gold equal to your Armour.\n<b><i>Remove</i></b> all Armour.			
+483	frenzy	1		Frenzy			
+484	frenzy_effect_desc	3		<i><b>Remove</b></i> 2 Health.\n<i><b>Remove</b></i> Health from your next Creature equal to <b><i>half</i></b> your Armour.			
+485	cardname_armoured_zombie	1		Armoured Zombie			
+486	wilderness	1		Wilderness			
+487	wilderness_effect_desc	3		Deal 2 damage to rival.\n<b><i>Battle</i></b> rival.			
+488	watchtower_guard	1		Watchtower Guard			
+489	watchtower_guard_effect_desc	3		Strike rival.			
+490	void_brawler	1		Void Brawler			
+491	void_brawler_effect_desc	3		<i><b>Remove</b></i> 6 Health.			
+492	varrock_museum	1		Varrock Museum			
+493	varrock_museum_effect_desc	3		Gain Gold equal to your Weapon Durability.\n<b><i>Remove</i></b> your weapon.			
+494	cardname_mej_kah	1		Mej-Kah			
+495	mej_kah_effect_desc	3		<i><b>Battle</i></b> rival.			
+496	treasure_chest	1		Treasure Chest			
+497	toolbelt	1		Toolbelt			
+498	toolbelt_effect_desc	3		<i><b>Remove</b></i> 3 Weapon Durability from rival.			
+499	tetsu_katana	1		Tetsu Katana			
+500	snap_shot	1		Snap Shot			
+501	snap_shot_effect_desc	3		Deal damage to rival equal to your Weapon Attack +1.			
+502	cardname_pulverise	1		Pulverise			
+503	pulverise_effect_desc	3		Deal damage to rival equal to your Weapon Attack x2.\n<i><b>Remove</b></i> 3 Weapon Attack.			
+504	skeleton_champion	1		Skeleton Champion			
+505	skeleton_champion_effect_desc	3		Deal 5 damage to rival.			
+506	scorpion	1		Scorpion			
+507	scorpion_effect_desc	3		Deal 3 damage to rival.			
+508	saradomin_brew	1		Saradomin Brew			
+509	saradomin_brew_effect_desc	3		Gain Health equal to your Armour.			
+510	safe_spot	1		Safe Spot			
+511	safe_spot_effect_desc	3		Discard 1 random card.\n<i><b>Remove</b></i> 5 Health from your next Creature.			
+512	rogues_den	1		Rogues' Den			
+513	rogues_den_effect_desc	3		Discard 1 random card.			
+514	ringofcharos	1		Ring of Charos			
+515	ringofcharos_effect_desc	3		<i><b>Remove</b></i> 3 cost from your next Support.			
+516	revenant	1		Revenant Demon			
+517	revenant_effect_desc	3		Gain 1 <i><b>Temporary</i></b> Attack.\n<i><b>Battle</i></b> Rival.			
+518	repurpose	1		Repurpose			
+519	repurpose_effect_desc	3		<i><b>Spend</b></i> weapon and gain 10 Armour.			
+520	pyramid_plunder	1		Pyramid Plunder			
+521	pyramid_plunder_effect_desc	3		Rival gains 2 Gold.			
+522	cardname_fern	1		Fern			
+523	fern_effect_desc	3		Add 4 Health to rival's next Creature.			
+524	ogre_chieftain	1		Ogre Chieftain			
+525	ogre_chieftain_effect_desc	3		Deal damage to rival equal to their Total Attack +4.			
+526	monolith	1		Monolith Chamber			
+527	monolith_effect	3		<i><b>Remove</b></i> 3 Armour. \n<i><b>Remove</b></i> 4 Health from the next Creature.			
+528	cardname_mithril_dragon	1		Rune Dragon			
+529	rune_dragon_effect_desc	3		Gain 4 Weapon Attack.\n<i><b>Remove</b></i> 8 Health from your next Creature.			
+530	major_mary_rancour	1		Major Mary Rancour			
+531	majormaryrancour_effect_desc	3		Rival gains a 1/1 weapon.			
+532	mage_of_zamorak	1		Mage of Zamorak			
+533	mageofzamorak_effect_desc	3		<i><b>Strike</i></b> rival.			
+534	karam	1		Karam			
+535	karam_effect_desc	3		<i><b>Spend</b></i> your weapon and <b><i>remove</i></b> 2 Base Attack from rival.			
+536	icewarrior	1		Ice Warrior			
+537	hurlweapon	1		Hurl Weapon			
+538	hurlweapon_effect	3		Deal damage to rival equal to your Weapon Durability x2.\n<i><b>Remove</b></i> weapon.			
+539	hobgoblin	1		Hobgoblin			
+540	hobgoblin_effect	3		<i><b>Remove</b></i> 5 Armour from rival.			
+541	goblin_raider	1		Goblin Raider			
+542	gnomeguard	1		Gnome Guard			
+543	fulldharok	1		Full Dharok			
+544	fulldharok_effect	3		<b><i>Mortal:</i></b> Gain 2 Base Attack.			
+545	eruni_ayuni_leeuni	1		Eruni, Ayuni & Leeuni			
+546	eruni_ayuni_leeuni_effect_desc	3		Kill your next Creature.			
+547	elvarg_effect_desc	3		Take 8 damage.\nGain Base Attack equal to half your current Base Attack.			
+548	bobthecat_effect_desc	3		Take damage equal to rival's Total Attack.\nSteal up to 3 Gold from rival.			
+549	cardname_deathtouched_darts	1		Deathtouched Darts			
+550	deathtouched_darts_effect_desc	3		Kill your next Creature.			
+551	work_order	1		Work Order			
+552	work_order_effect_desc	3		<i><b>Spend</i></b> weapon and add your Weapon Attack and 2 Health to rival's next Creature.			
+553	traiborn_effect_desc	3		Add 1 Health and 3 Attack to rival's next Creature.			
+554	title_deck_selection	0		Deck Selection			
+555	title_mulligan	0		Opening Hand			
+556	replace	0		Replace			
+557	help_warning_cost	0		Not Enough Gold!			
+558	help_warning_death	0		Legend Will Fall!			
+559	ogre_effect_desc	3		Take 6 damage.\n<i><b>Remove</i></b> 1 Base Attack from rival.			
+560	cardname_undead_dragon	1		Undead Dragon			
+561	undead_dragon_effect_desc	3		<b><i>Remove</i></b> 10 Health from rival.			
+562	cardname_king_black_dragon	1		King Black Dragon			
+563	cardname_giant_spider	1		Giant Spider			
+564	cardname_ring_of_recoil	1		Ring of Recoil			
+565	ring_of_recoil_effect_desc	3		Deal 4 damage to rival.\nTake damage equal to rival's Base Attack.			
+566	cardname_gravite_longsword	1		Gravite Longsword			
+567	cardname_chaotic_longsword	1		Chaotic Longsword			
+568	cardname_heist	1		Heist			
+569	heist_effect_desc	3		<i><b>Steal</b></i> up to 5 Armour from rival.			
+570	cardname_rolo_the_stout	1		Rolo the Stout			
+571	rolo_the_stout_effect_desc	3		Draw 1 card.			
+572	cardname_kayle	1		Kayle			
+573	morwenna_effect_desc	3		Add 3 Health to rival's next Creature. Deal 2 damage to rival.			
+574	cardname_morwenna	1		Morwenna			
+575	hand_full	0		Your hand is full			
+576	cardname_ling	1		Ling, the Assassin			
+577	ling_effect_desc	3		Deal damage to rival equal to <i><b>half</b></i> your Gold.\n<i><b>Remove</b></i> <i><b>half</b></i> your Gold.			
+578	cardname_amascut_templeguard	1		Amascut Templeguard			
+579	amascut_templeguard_effect_desc	3		Take 4 damage.\nDouble your Gold.			
+581	slam_effect_desc	3		Deal 5 damage to rival.\n<i><b>Remove</b></i> 4 Weapon Durability from rival.			
+582	cardname_culinaromancer	1		Culinaromancer			
+583	cardname_dagannoth	1		Dagannoth Fledgling			
+585	cardname_kalphite_soldier	1		Kalphite Soldier			
+586	cardname_exiled_kalphite_paragon	1		Exiled Kalphite Paragon			
+587	exiled_kalphite_paragon	3		+2 weapon Durability			
+588	cardname_oozing_kalphite	1		Oozing Kalphite			
+589	oozing_kalphite_effect	3		<i><b>Remove</b></i> 6 Armour and 4 Health from rival.			
+591	cardname_kalphite_worker	1		Kalphite Worker			
+592	cardname_slam	1		Slam			
+593	view_basic_deck	0		This is a basic deck, you can view the cards in this deck but you cannot make changes to it.			
+594	deck_basic	0		Basic			
+595	deck_custom	0		Custom			
+596	legend_tooltip	0		This is your legend.			
+597	opponent_legend_tooltip	0		This is your rival.			
+598	fight_tooltip	0		When you legend reaches this they will <i><b>Battle</i></b> your rival to the death.			
+599	slot_tooltip	0		Place your cards here.			
+600	timer_tooltip	0		Click here to submit your turn. A timer will start if your opponent submits their turn and you have that much time to finish placing cards.			
+601	cardname_obsidian_golem	1		Obsidian Golem			
+602	obsidian_golem_effect_desc	3		<i><b>Remove</b></i> 4 Weapon Attack from rival.			
+603	cardname_rock_golem	1		Rock Golem			
+604	rock_golem_effect_desc	3		<b><i>Remove</i></b> 2 Weapon Attack from rival.			
+605	cardname_sergeant_grimspike	1		Sergeant Grimspike			
+606	sergeant_grimspike_effect_desc	3		Deal 6 damage to rival.			
+607	cardname_sergeant_slimetoes	1		Sergeant Slimetoes			
+608	cardname_south_sea_pillager	1		South Sea Pillager			
+609	south_sea_pillager_effect_desc	3		<i><b>Remove</b></i> 2 Gold from rival.			
+610	cardname_armadylean_golem	1		Armadylean Golem			
+611	armadylean_golem_effect_desc	3		Gain Armour equal to your Weapon Attack +3.			
+612	cardname_living_rock_brawler	1		Living Rock Brawler			
+613	living_rock_brawler_effect_desc	3		+1/+1 to your weapon.			
+614	cardname_dust_devil	1		Dust Devil			
+615	dust_devil_effect	3		<i><b>Spend</b></i> your weapon.\nRival loses 1 Base Attack.			
+616	cardname_revenant_orc	1		Revenant Ork			
+617	revenant_orc_effect_desc	3		Draw 1 Equipment.\nGain 3 <i><b>Temporary</i></b> Attack.\n<i><b>Strike</i></b> rival.			
+618	cardname_drunken_dwarf	1		Drunken Dwarf			
+619	drunken_dwarf_effect_desc	3		Gain Health equal to your Weapon Durability.			
+620	cardname_bandit_king	1		Bandit King			
+621	bandit_king_effect_desc	3		<i><b>Steal</b></i> up to 1 Weapon Attack and Durability from rival.			
+622	cardname_desert_snake	1		Desert Snake			
+623	desert_snake_effect_desc	3		<i><b>Remove</b></i> 3 Health.\n<i><b>Remove</b></i> 5 Health from rival.			
+624	cardname_desert_strykewyrm	1		Desert Strykewyrm			
+625	cardname_dazing_shot	1		Dazing Shot			
+626	dazing_shot_effect_desc	3		Deal damage to rival equal to their next Creature's Attack.			
+627	cardname_chaos_dwarf	1		Chaos Dwarf			
+628	chaos_dwarf_effect_desc	3		<b><i>Remove</i></b> 1 Weapon Attack from rival.			
+629	cardname_goblin_brute	1		Goblin Brute			
+630	goblin_brute_effect_desc	3		Deal 2 damage to rival.			
+631	cardname_revenant_dark_beast	1		Revenant Dark Beast			
+632	revenant_dark_beast_effect	3		Draw 1 Location. Gain 3 <i><b>Temporary</i></b> Attack.\n<i><b>Strike</i></b> rival.			
+633	cardname_troll_general	1		Troll General			
+634	troll_general_effect_desc	3		<i><b>Remove</b></i> 2 Weapon Attack from rival.\n<b><i>Remove</i></b> 4 Attack from your next Creature.			
+635	cardname_anticipation	1		Anticipation			
+636	anticipation_effect_desc	3		Gain Health equal to rival's Total Attack.			
+637	cardname_berserker_shield	1		Berserker Shield			
+638	berserker_shield_effect_desc	3		If you have 10 or more Armour, gain 1 Base Attack.			
+639	ozan	0		Ozan			
+640	ariane	0		Ariane			
+641	title_hero_selection	0		Hero Selection			
+642	cardname_beer	1		Beer			
+643	beer_flavour_text	2		TODO - beer			
+644	beer_effect_desc	3		Gain 2 <i><b>Temporary</i></b> Attack.			
+645	cardname_strength_potion	1		Strength Potion			
+646	carddesc_strength_potion	2		TODO - strength potion			
+647	effect_strength_potion	3		Gain 5 <i><b>Temporary</i></b> Attack.			
+648	cardname_prototype	1		Prototype			
+649	carddesc_prototype	2		TODO - prototype			
+650	effect_prototype	3		<b><i>Spend</i></b> weapon and gain 6 <i><b>Temporary</i></b> Attack.			
+651	cardname_khnum	1		Khnum			
+652	carddesc_khnum	2		TODO - Khnum			
+653	effect_khnum	3		Rival gains 3 Gold.\nGain 4 <i><b>Temporary</i></b> Attack.			
+654	cardname_mithril_arrows	1		Mithril Arrows			
+655	carddesc_mithril_arrows	2		TODO - Our arrows will blot out the sun!			
+656	effect_mithril_arrows	3		Gain 3 <i><b>Temporary</i></b> Attack.			
+657	cardname_range_guild	1		Ranging Guild			
+658	carddesc_range_guild	2		TODO - Range Guild			
+659	effect_range_guild	3		Gain 3 <i><b>Temporary</i></b> Attack.			
+660	cardname_giant_champion	1		Giant Champion			
+661	carddesc_giant_champion	2		TODO - giant champion			
+662	effect_giant_champion	3		<i><b>Spend</i></b> weapon and gain 3 <i><b>Temporary</i></b> Attack.			
+663	cardname_zamorak_brew	1		Zamorak Brew			
+664	carddesc_zamorak_brew	2		TODO - Zamorak Brew			
+665	effect_zamorak_brew	3		<i><b>Remove</b></i> 7 Health.\nGain 3 <b><i>Temporary</i></b> Attack.			
+666	hint_cards_played_into_slots	0		Cards are played into slots.			
+667	hint_fill_remaining_slots	0		Fill the remaining slots to create a quest.			
+668	hint_heroes_fight_cards	0		Your legend fights creatures you play.			
+669	cardname_adamant_armour	1		Adamant Armour			
+670	cardname_dagannoth_sentinel	1		Dagannoth Sentinel			
+671	cardname_geeka	1		Gee'ka			
+673	cardname_infernal_mage	1		Infernal Mage			
+674	infernal_mage_effect_desc	3		<b><i>Remove</i></b> 6 Health from rival.			
+675	cardname_haunted_soul	1		Haunted Soul			
+676	haunted_soul_effect_desc	3		Deal 5 damage to rival.			
+677	cardname_crawling_hand	1		Crawling Hand			
+678	crawling_hand_effect_desc	3		Gain 3 <i><b>Temporary</i></b> Attack.			
+679	cardname_wizard_mindbomb	1		Wizard Mindbomb			
+680	wizard_mindbomb_effect_desc	3		<i><b>Remove</b></i> 2 Health.\nDraw 3 cards.			
+681	cardname_earth_blast	1		Earth Blast			
+682	earth_blast_effect_desc	3		Deal damage to rival equal to your hand size x2.			
+683	cardname_wind_strike	1		Wind Strike			
+684	wind_strike_effect_desc	3		<i><b>Remove</b></i> 3 Health from rival.			
+685	cardname_balance_elemental	1		Balance Elemental			
+686	balance_elemental_effect_desc	3		Discard all cards from both players, and draw 5 cards each.			
+687	cardname_black_demon	1		Black Demon			
+688	black_demon_effect_desc	3		Deal 4 Damage to both Legends.[br]Strike rival.[br]Exhaust.			
+689	cardname_cave_slime	1		Cave Slime			
+690	cave_slime_effect_desc	3		<i><b>Remove</b></i> 3 Health from your next Creature.			
+691	cardname_commander_zilyana	1		Commander Zilyana			
+692	cardname_greater_demon	1		Greater Demon			
+693	greater_demon_effect_desc	3		Strike rival.[br]Exhaust.			
+694	cardname_green_dragon	1		Green Dragon			
+695	green_dragon_effect_desc	3		<i><b>Remove</b></i> all Armour from both Legends.			
+696	cardname_jogre_shaman	1		Jogre Shaman			
+697	jogre_shaman_effect_desc	3		Deal damage to rival equal to their hand size x2.			
+698	cardname_lesser_demon	1		Lesser Demon			
+699	lesser_demon_effect_desc	3		<i><b>Battle</i></b> rival.			
+700	cardname_mutineer	1		Mutineer			
+701	mutineer_effect_desc	3		Rival discards 1 random card.			
+702	cardname_ogre_warlord	1		Ogre Warlord			
+703	ogre_warlord_effect_desc	3		Set both Legends to have 5 Armour.			
+704	cardname_redbeard_frank	1		Redbeard Frank			
+705	redbeard_frank_effect_desc	3		<i><b>Remove</b></i> all Gold from both Legends.\nDraw 2 cards.			
+706	cardname_scarface_pete	1		Scarface Pete			
+707	scarface_pete_effect_desc	3		Rival discards 3 random cards.			
+708	cardname_tokash	1		To'Kash			
+709	tokash_effect_desc	3		Remove weapon.[br]Gain 6 Temporary Attack.[br]Strike rival. Exhaust.			
+710	cardname_wounded_kalphite	1		Wounded Kalphite			
+711	wounded_kalphite_effect_desc	3		<b><i>Remove</i></b> 3 Armour from rival.			
+712	cardname_shug	1		Shug			
+713	shug_effect_desc	3		Swap the Attack and Health of your next Creature.			
+714	cardname_ghostship	1		Ghostship			
+715	ghostship_effect_desc	3		Rival discards 2 random cards.			
+716	cardname_weapon_poison	1		Weapon Poison			
+717	weapon_poison_effect_desc	3		Add 2 Weapon Attack and <i><b>remove</b></i> 1 Weapon Durability.			
+718	cardname_ankou	1		Ankou			
+719	ankou_effect_desc	3		<i><b>Remove</b></i> 4 Health from both Legends.			
+720	cardname_chaos_elemental	1		Chaos Elemental			
+721	chaos_elemental_effect_desc	3		<i><b>Remove</b></i> weapon and all Armour from rival.			
+722	cardname_unholy_cursebearer	1		Unholy Cursebearer			
+723	unholy_cursebearer_effect_desc	3		<i><b>Remove</b></i> 8 Health.			
+724	cardname_abbot_langely	1		Abbot Langely			
+725	gnome_healer_effect_desc	3		Add 4 Health to rival.			
+726	cardname_alchemy	1		Alchemy			
+727	alchemy_effect_desc	3		<i><b>Spend</b></i> weapon and gain 5 Gold.			
+728	cardname_bind	1		Bind			
+729	bind_effect_desc	3		Deal 1 damage to rival.\n<i><b>Strike</i></b> rival.			
+730	cardname_divine_storm	1		Divine Storm			
+731	divine_storm_effect_desc	3		<i><b>Remove</b></i> 6 Armour from rival.\nDeal 6 damage to rival.			
+732	cardname_earth_wave	1		Earth Wave			
+733	earth_wave_effect_desc	3		<i><b>Remove</b></i> Health from rival equal to your hand size +4.\nDiscard all your cards.			
+734	cardname_archmage_sedridor	1		Archmage Sedridor			
+735	archmage_sedridor_effect_desc	3		Add 2 Health and 2 Attack to rival's next Creature.			
+736	cardname_enfeeble	1		Enfeeble			
+737	enfeeble_effect_desc	3		Discard 1 random card.\n<i><b>Remove</b></i> 5 Attack from your next Creature.			
+738	cardname_fire_surge	1		Fire Surge			
+739	fire_surge_effect_desc	3		<i><b>Remove</b></i> Health from rival equal to <b><i>half</i></b> their Armour.			
+740	cardname_lady_hefin	1		Lady Hefin			
+741	lady_hefin_effect_desc	3		Gain 2 Health for each card in your hand.			
+742	cardname_ring_of_kinship	1		Ring of Kinship			
+743	ring_of_kinship_effect_desc	3		Add 5 Armour to rival.			
+744	cardname_stagger	1		Stagger			
+745	stagger_effect_desc	3		<i><b>Remove</b></i> 1 Base Attack from rival.			
+746	cardname_wind_surge	1		Wind Surge			
+747	wind_surge_effect_desc	3		If you have 1 Base Attack, <i><b>remove</b></i> 6 Health from rival.			
+748	cardname_adamant_dragon	1		Adamant Dragon			
+749	adamant_dragon_effect_desc	3		Gain Weapon Durability equal to rival's Gold.			
+750	cardname_kalger	1		Kal'Ger			
+751	kalger_effect_des	3		Gain 2 Weapon Attack.[br]Strike rival.[br]Exhaust.			
+752	cardname_tzhaar_hur	1		TzHaar-Hur			
+753	tzhaar_hur_effect_desc	3		Gain Weapon Durability equal to half rival's Armour.			
+754	cardname_chaotic_rapier	1		Chaotic Rapier			
+755	chaotic_rapier_effect_desc	3		Gain a 1/3 weapon.\nGain Weapon Attack equal to <i><b>half</b></i> rival's Armour.			
+756	cardname_flurry	1		Flurry			
+757	flurry_effect_desc	3		<i><b>Strike</b></i> your next Creature.			
+758	cardname_hope_devourer	1		Hope Devourer			
+759	hope_devourer_effect_desc	3		<i><b>Steal</b></i> up to 1 Base Attack from rival.			
+760	cardname_scabarite_assassin	1		Scabarite Assassin			
+761	cardname_ullek_mummy	1		Ullek Mummy			
+762	ullek_mummy_effect_desc	3		Gain Gold equal to your Weapon Attack.			
+763	cardname_osman	1		Osman			
+764	osman_effect_desc	3		<i><b>Steal</b></i> up to 5 Gold from rival.			
+765	cardname_ugthanki	1		Ugthanki			
+766	cardname_donation	1		Donation			
+767	donation_effect_desc	3		Add 4 Gold to rival.\nDraw 3 cards.			
+768	cardname_shadow_silk_hood	1		Shadow Silk Hood			
+769	shadow_silk_hood_effect_desc	3		Steal 1 random card from rival's hand and put it in your hand.			
+770	cardname_smuggler	1		Smuggler			
+771	smuggler_effect_desc	3		<i><b>Steal</b></i> up to 3 Weapon Attack from rival.			
+772	cardname_crazed_whaler	1		Crazed Whaler			
+773	crazed_whaler_effect_desc	3		Remove 2 Gold and 2 Weapon Durability from rival.			
+774	cardname_rock_crab	1		Rock Crab			
+775	cardname_tokhaar_ket	1		TokHaar-Ket			
+776	tokhaar_ket_effect_desc	3		<b><i>Spend</i></b> 4 Armour and gain 2 Base Attack.			
+777	cardname_yklagor	1		Yk'Lagor			
+778	yklagor_effect_desc	3		<i><b>Remove</b></i> all your Armour.			
+779	cardname_destroy	1		Destroy			
+780	destroy_effect_desc	3		<b><i>Spend</i></b> 6 Armour to kill your next Creature.			
+781	cardname_reflect	1		Reflect			
+782	reflect_effect_desc	3		Deal damage to rival equal to your next Creature's Attack.			
+783	cardname_ogre_trader	1		Ogre Trader			
+784	ogre_trader_effect_desc	3		<b><i>Spend</i></b> Armour to pay for your next Support.			
+785	cardname_toktz_ket_em	1		TokTz-Ket-Em			
+786	toktz_ket_em_effect_desc	3		<i><b>Spend</b></i> 4 Armour and gain a 3/6 weapon.			
+787	cardname_war_tortoise	1		War Tortoise			
+788	war_tortoise_effect_desc	3		<i><b>Spend</b></i> 3 Armour and draw 4 cards.			
+789	assassin	0		Ozan			
+790	glass_cannon	0		Ariane			
+791	results	0		Results			
+792	unlock_cards	0		You have unlocked 2 copies of a new Chronicle Card!			
+793	well_done	0		Well Done!			
+794	rewards	0		Rewards			
+795	earn_soft_currency	0		You have earned some soft currency!			
+796	results_blur	0		Another story of the ages chronicled!			
+797	cardname_instakill	1		Instant Kill Card			
+798	effectdesc_instantkill	3		Instantly kill your rival			
+799	crafting	0		Crafting			
+800	up	0		Up			
+801	down	0		Down			
+802	common_materials	0		Gem Shards			
+803	uncommon_materials	0		Uncommon Materials			
+804	rare_materials	0		Rare Materials			
+805	very_rare_materials	0		Very Rare Materials			
+806	craft	0		Craft			
+807	card_tooltip_rewards	0		Rewards			
+808	card_tooltip_cost	0		Gold cost			
+809	card_tooltip_attack	0		Creature Attack			
+810	card_tooltip_health	0		Creature Health			
+814	tutorial_watchphase_18	0		<color=yellow><b>Weapon Durability</b></color> decreases each time a Legend attacks.			
+815	tut_mission1_objective	1		Annoyed Cow			
+816	tut_mission2_01	0		<b>Support cards</b> are used by paying <b>gold</b>. Drag them both onto the board.			
+817	tut_mission2_objective	1		Goblin Raiders			
+818	tutorial_watchphase_16	0		Any text on a card is called an <color=yellow><b>effect</b></color>.			
+819	tutorial_legend_body	0		You have unlocked <b>The Raptor</b>![br][br]With access to the most armour, The Raptor is a challenge for any rival to defeat.			
+820	tut_mission1_desc	1		One fine morning a Lumbridge farmer awoke to find a pack of goblins trying to steal his windmill. The cheek of it! Time to teach them a lesson.			
+821	tutorial_buildphase_10	1		A game can last up to five Chapters.			
+822	tutorial_legend_title	1		The Raptor			
+823	tutorial_buildphase_18	1		Choose three cards to play.\n\nUnused cards carry over to the next Chapter.			
+824	tutorial_watchphase_17	0		<color=yellow><b>Armour</b></color> will always absorb damage first.			
+825	tutorial_buildphase_15	1		This is a <color=yellow><b>Health reward</b></color>.			
+826	tutorial_buildphase_21	1		Some of your cards won't work properly. Make sure there are no warnings before submitting the turn.			
+827	kharidian_desert	1		Kharidian Desert			
+828	misthalin	1		Misthalin			
+829	tut_mission1_taunt01	0		Moo.			
+830	tut_mission1_taunt02	0		Mooo.			
+831	tut_mission1_taunt03	0		Moo...			
+832	tut_mission1_taunt04	0		Moo!			
+833	tut_mission1_taunt05	0		Gruugh! No! My windmill!			
+834	tutorial_legendboxintro_title	0		Your First Legend			
+835	tut_mission2_taunt02	0		That armour doesn't go with your shoes.			
+836	tut_mission2_taunt03	0		You'll never defeat me!			
+837	tut_mission2_taunt04	0		Arrgh!			
+838	shop_category_booster	0		Booster Packs			
+839	shop_category_booster_basic	0		Basic Booster Packs			
+840	shop_category_bundles	0		Bundles			
+841	shop_category_buffs	0		Buffs			
+842	shop_category_card_customisation	0		Card Customisation			
+843	shop_category_legend_customisation	0		Legend Customisation			
+844	shop_product_1_basic_booster	4		1 Basic Boosters			
+847	shop_desc_1_basic_booster	5		A single booster card pack			
+850	marketplace	0		Marketplace			
+851	buy	0		Buy			
+852	insufficient_funds	0		Insufficient funds			
+853	insufficient_purchase_limit	0		Tried to buy too many			
+854	invalid_item	0		Product does not exist			
+855	open_pack	0		Open Pack			
+856	open	0		Open			
+857	success	0		Success!			
+858	confirm_purchase	0		Confirm purchase			
+860	discount_ten	0	Has a star icon at the beginning	<color=white><sprite=1></color> 10% Discount			
+861	discount_twenty	0	Has a star icon at the beginning	<color=white><sprite=1></color> 20% Discount			
+862	discount_quater	0	Has a star icon at the beginning	<color=white><sprite=1></color> 25% Discount			
+863	discount_thirty	0	Has a star icon at the beginning	<color=white><sprite=1></color> 30% Discount			
+864	discount_third	0	Has a star icon at the beginning	<color=white><sprite=1></color> 33% Discount			
+865	discount_fourty	0	Has a star icon at the beginning	<color=white><sprite=1></color> 40% Discount			
+866	discount_half	0	Has a star icon at the beginning	<color=white><sprite=1></color> Half Price			
+867	discount_sixty	0	Has a star icon at the beginning	<color=white><sprite=1></color> 60% Discount			
+868	discount_two_thirds	0	Has a star icon at the beginning	<color=white><sprite=1></color> 66% Discount			
+869	discount_seventy	0	Has a star icon at the beginning	<color=white><sprite=1></color> 70% Discount			
+870	discount_two_quaters	0	Has a star icon at the beginning	<color=white><sprite=1></color> 75% Discount			
+871	discount_eighty	0	Has a star icon at the beginning	<color=white><sprite=1></color> 80% Discount			
+872	discount_ninety	0	Has a star icon at the beginning	<color=white><sprite=1></color> 90% Discount			
+873	emotes_rate_limit	0		You can only send an emote once every 5 seconds			
+874	emotes_thanks	0		Thanks			
+875	emotes_praise	0		Praise			
+876	emotes_hello	0		Hello			
+877	emotes_sorry	0		Sorry			
+878	emotes_silly	0		Silly			
+879	emotes_taunt	0		Taunt			
+880	emotes_thanks_hoarder01	0		Hey, thanks for that.			
+883	emotes_thanks_tank01	0		You have my thanks, for now...			
+886	emotes_thanks_glass_cannon01	0		My kindest regards.			
+888	emotes_thanks_assassin01	0		Why, thank you.			
+889	emotes_praise_hoarder01	0		Good work there.			
+891	emotes_praise_tank01	0		Impressive.			
+893	emotes_praise_glass_cannon01	0		An intelligent move. Well done.			
+894	emotes_praise_assassin01	0		Ha! Good stuff.			
+895	emotes_hello_hoarder01	0		Heya.			
+897	emotes_hello_tank01	0		Good day, foe.			
+899	emotes_hello_glass_cannon01	0		Pleased to make your acquaintance.			
+900	emotes_hello_assassin01	0		Hello, have we met?			
+901	emotes_sorry_hoarder01	0		My apologies.			
+903	emotes_sorry_tank01	0		Hmph. Regrettable.			
+905	emotes_sorry_glass_cannon01	0		Please forgive me.			
+906	emotes_sorry_assassin01	0		Sorry. My bad.			
+907	emotes_silly_hoarder01	0		Make swords, not war. That's what I say.			
+909	emotes_silly_tank01	0		You're smaller than the breakfast I just ate.			
+911	emotes_silly_glass_cannon01	0		You remind me of someone I accidentally turned into a frog.			
+912	emotes_silly_assassin01	0		How about we put down the cards and have a drink?			
+913	emotes_taunt_hoarder01	0		Not the sharpest of blades, are you?			
+915	emotes_taunt_tank01	0		I hope you like the taste of failure.			
+917	emotes_taunt_glass_cannon01	0		Your future doesn't look good.			
+918	emotes_taunt_assassin01	0		I've seen cuter camels.			
+919	matchmaking_unavailable	0		The matchmaking server is not available. Please try again later.			
+920	login_already_connected	0		Login failed: already connected. Please log out of any other sessions and try again.			
+921	confirm_craft	0		Are you sure you want to craft this card?			
+922	confirm_recycle	0		Are you sure you want to recycle this card?			
+923	recycle	0		Recycle			
+924	favourites	0		Favourites			
+925	treasures	0		Treasures			
+926	trash_all_extras	0		Trash Extra Cards			
+927	packs	0		Packs			
+928	exchange	0		Exchange			
+929	convert	0		Convert			
+930	tutorial_buildphase_17	0		<color=yellow><b>Weapon rewards</b></color> help make Legends stronger in combat.			
+931	campaign	0		Campaign			
+932	tut_mission1_10	0		Welcome to Chronicle!\nLet's learn how to play the game.			
+933	tutorial_buildphase_08	0		These are your <color=yellow><b>Legend's stats</b></color>.			
+934	tut_mission1_12	0		This mission has an <b>objective</b>. Defeat it with your Legend to win!			
+935	tut_mission1_13	0		These are your cards. You'll be playing them onto the board.			
+936	tutorial_buildphase_04	0		Looking good!\n\nPress <color=yellow><b>PLAY</b></color> to begin the adventure.			
+937	profile_server_offline	0		The Chronicle profile server is currently offline.			
+938	currency_conversion	0		Convert {0} into {1}			
+939	currency_common_materials	0		Gem Shards			
+940	currency_uncommon_materials	0		Emeralds			
+941	currency_rare_materials	0		Rubies			
+942	currency_very_rare_materials	0		Diamonds			
+943	currency_legend_token	0		Legend Token			
+944	shop_desc_5_basic_booster	5		A set of 5 booster card packs			
+945	shop_desc_50_basic_booster	5		A set of 50 booster card packs			
+946	shop_desc_90_basic_booster	5		A set of 90 basic booster card packs			
+947	shop_product_5_basic_booster	4		5 Basic Boosters			
+948	shop_product_50_basic_booster	4		50 Basic Boosters			
+949	shop_product_90_basic_booster	4		90 Basic Boosters			
+950	confirm	0		Confirm			
+951	convert_from	0		Select a currency to convert from.			
+952	convert_to	0		Select a currency to convert to.			
+953	unused_card	1		NOT USED			
+954	edit_deck	0		Edit Deck			
+955	deck_contents_title	0		Deck Contents			
+956	new	0		New			
+957	authentication_offline	0		The authentication server is currently offline			
+958	cardname_bilrach	1		Bilrach			
+959	bilrach_effect_desc	3		Set your Health to match rival's Health.			
+960	cardname_ket_zek	1		Ket-Zek			
+961	ket_zek_effect_desc	3		Deal 8 damage to rival.			
+962	cardname_kreearra	1		Kree'arra			
+963	kreearra_effect_desc	3		Gain 3 <i><b>Temporary</i></b> Attack.			
+964	cardname_tenebra	1		Tenebra			
+965	tenebra_effect_desc	3		Steal up to 8 Health from rival.			
+966	cardname_bork	1		Bork			
+967	cardname_kyzaj_tournament	1		Kyzaj Tournament			
+968	kyzaj_tournament_effect_desc	3		Add 3 Gold to rival.			
+969	cardname_asphyxiate	1		Asphyxiate			
+970	asphyxiate_effect_desc	3		Deal damage to rival equal to their next Creature's Attack x2.			
+971	cardname_zamorakian_occultist	1		Zamorakian Occultist			
+972	zamorakian_occultist_effect_desc	3		Add 2 <color=blue>Asphyxiate</color> to your hand.			
+973	cardname_amascut_mysitc	1		Amascut Mystic			
+974	amascut_mystic_effect_desc	3		Gain Health equal to your Gold.			
+975	cardname_tzhaar_ket	1		TzHaar-Ket			
+976	tzhaar_ket_effect_desc	3		If you have the most Armour, <b><i>remove</i></b> all rival's Armour and deal them 6 damage.			
+977	cardname_black_knight_titan	1		Black Knight Titan			
+978	black_knight_titan_effect_desc	3		<i><b>Strike</i></b> rival with their weapon.\n<i><b>Remove</b></i> weapon from rival.			
+979	cardname_count_draynor	1		Count Draynor			
+980	count_draynor_effect_desc	3		<i><b>Steal</b></i> up to 4 Health from your next Creature.			
+981	cardname_dr_fenkenstrain	1		Dr. Fenkenstrain			
+982	dr_fenkenstrain_effect_desc	3		Add 3 Attack to rival's next Creature.\nAdd 3 Attack to your next Creature.			
+983	cardname_grizzly_bear	1		Grizzly Bear			
+984	grizzly_bear_effect_desc	3		<b><i>Remove</i></b> 2 Health from your next Creature.			
+985	cardname_kalphite_emissary	1		Kalphite Emissary			
+986	kalphite_emissary_effect_desc	3		<i><b>Remove</b></i> 5 Armour and 3 Weapon Durability from rival.			
+987	cardname_tainted_cabbage	1		Tainted Cabbage			
+988	tainted_cabbage_effect_desc	3		<b><i>Remove</i></b> 1 Health.			
+989	cardname_melzar_the_mad	1		Melzar the Mad			
+990	melzar_the_mad_effect_desc	3		Add 3 <color=blue>Tainted Cabbage</color> to rival's hand.			
+991	cardname_tok_xil	1		Tok-Xil			
+992	tok_xil_effect_desc	3		<b><i>Remove</i></b> 4 Health from your next Creature.\n<b><i>Remove</i></b> 2 Health.			
+993	cardname_skeletal_mage	1		Skeletal Mage			
+994	skeletal_mage_effect_desc	3		If you have 1 Base Attack, <i><b>remove</b></i> 6 Health from rival.			
+995	cardname_fremennik_crafter	1		Fremennik Crafter			
+996	fremennik_crafter_effect_desc	3		<b><i>Spend</i></b> your weapon and draw 4 cards.			
+997	cardname_leela	1		Leela			
+998	leela_effect_desc	3		If rival has the most Total Attack, gain 1 Base Attack.			
+999	cardname_animated_armour	1		Animated Armour			
+1000	animated_armour_effect_desc	3		Gain Armour equal to your Total Attack.			
+1001	cardname_wormbrain	1		Wormbrain			
+1002	wormbrain_effect_desc	3		<b><i>Remove</i></b> 2 Gold.\nAdd <color=blue>Elvarg</color> to your hand.			
+1003	cardname_skeletal_peon	1		Skeletal Peon			
+1004	skeletal_peon_effect_desc	3		Draw 2 cards.			
+1005	cardname_fishing_trawler	1		Fishing Trawler			
+1006	fishing_trawler_effect_desc	3		Add 3 <color=blue>Monkfish</color> to your hand.			
+1007	cardname_relicyms_balm	1		Relicym's Balm			
+1008	relicyms_balm_effect_desc	3		If you have 1 Base Attack, gain 2 Base Attack.			
+1009	cardname_ancient_blood_barrage	1		Blood Barrage			
+1010	cardname_ancient_ice_barrage	1		Ice Barrage			
+1011	cardname_ancient_shadow_barrage	1		Shadow Barrage			
+1012	cardname_ancient_smoke_barrage	1		Smoke Barrage			
+1013	cardname_ancient_spellbook	1		Ancient Spellbook			
+1014	cardname_lunar_boost_share	1		Boost			
+1015	cardname_lunar_borrowed_power	1		Borrowed Power			
+1016	cardname_lunar_group_heal	1		Group Heal			
+1017	cardname_lunar_vengeance	1		Vengeance			
+1018	cardname_lunar_spellbook	1		Lunar Spellbook			
+1019	ancient_blood_barrage_effect_desc	3		Deal 2 damage to rival.\n<b><i>Remove</i></b> 2 Health from your next Creature.			
+1020	ancient_ice_barrage_effect_desc	3		Deal 5 damage to rival.\n<i><b>Remove</b></i> 4 Health from your next Creature.			
+1021	ancient_shadow_barrage_effect_desc	3		<i><b>Remove</b></i> 1 Base Attack from rival.\n<b><i>Remove</i></b> 2 Attack from your next Creature.			
+1022	ancient_smoke_barrage_effect_desc	3		<i><b>Remove</b></i> weapon from rival.\n<b><i>Remove</i></b> 2 Attack from your next Creature.			
+1023	ancient_spellbook_effect_desc	3		Add <color=blue>Blood</color>, <color=blue>Ice</color>, <color=blue>Shadow</color>, and <color=blue>Smoke Barrage</color> to your hand.			
+1024	lunar_boost_share_effect_desc	3		Add 3 Health and 5 Attack to rival's next Creature.			
+1025	lunar_borrowed_power_effect_desc	3		Gain <i><b>Temporary</i></b> Attack equal to rival's Total Attack +1.			
+1026	lunar_group_heal_effect_desc	3		Add 2 Health to rival's next Creature.			
+1027	lunar_vengeance_effect_desc	3		Deal damage to rival equal to your hand size +5.			
+1028	lunar_spellbook_effect_desc	3		Add <color=blue>Boost</color>, <color=blue>Borrowed Power</color>, <color=blue>Group Heal</color>, and <color=blue>Vengeance</color> to your hand.			
+1029	family_beast	0		Beast			
+1030	family_demon	0		Demon			
+1031	family_dragon	0		Dragon			
+1032	family_location	0		Location			
+1033	family_equipment	0		Equipment			
+1034	family_familiar	0		Familiar			
+1035	family_giant	0		Giant			
+1036	family_goblin	0		Goblin			
+1037	family_kalphite	0		Kalphite			
+1038	family_ogre	0		Ogre			
+1039	family_ork	0		Ork			
+1040	family_pirate	0		Pirate			
+1041	family_potion	0		Potion			
+1042	family_ship	0		Ship			
+1043	family_slayer_task	0		Slayer Task			
+1044	family_spell	0		Spell			
+1045	family_troll	0		Troll			
+1046	family_tzhaar	0		Tzhaar			
+1047	family_undead	0		Undead			
+1048	family_ally	0		Ally			
+1049	tooltip_turn_timer	0		Click here when you are happy with the cards on your path.			
+1050	tooltip_fight_slot	0		You will fight your opponent here.			
+1051	tooltip_teleport_slot	0		Your heroes will move to the next page here.			
+1052	store_product_gold_chest	4		Gold Chest			
+1053	store_desc_gold_chest	5		Gold Chest			
+1054	store_product_silver_chest	4		Silver Chest			
+1055	store_desc_silver_chest	5		Silver Chest			
+1056	store_product_bronze_chest	4		Bronze Chest			
+1057	store_desc_bronze_chest	5		Bronze Chest			
+1058	collect_all	0		Collect All			
+1059	gold_chest_awarded	0		Gold Chest Awarded!			
+1060	silver_chest_awarded	0		Silver Chest Awarded			
+1061	bronze_chest_awarded	0		Bronze Chest Awarded!			
+1062	currency_assassin_token	0		Ozan Token			
+1063	currency_beast_master_token	0		Morvran Token			
+1064	currency_buffer_token	0		Token			
+1065	currency_glass_cannon_token	0		Ariane Token			
+1066	currency_hoarder_token	0		Linza Token			
+1067	currency_leecher_token	0		Token			
+1068	currency_mutant_token	0		Token			
+1069	currency_tank_token	0		Raptor Token			
+1070	tooltip_exchange	0		Exchange gems for other gems			
+1071	tooltip_trash_all_extras	0		Recycle all extra cards into Gem Shards.			
+1072	tooltip_filter_common	0		Show common cards			
+1073	tooltip_filter_uncommon	0		Show uncommon cards			
+1074	tooltip_filter_rare	0		Show rare cards			
+1075	tooltip_filter_very_rare	0		Show very rare cards			
+1076	tooltip_filter_favourites	0		Show your favourite cards			
+1077	title_gem_exchange	0		Gem Exchange			
+1078	open_exchange	0		Open Exchange			
+1079	close_exchange	0		Close Exchange			
+1080	upgrade	0		Upgrade			
+1081	tooltip_recycle	0		Recycle this card to receive Gem Shards.			
+1082	tooltip_craft	0		Craft this card using materials			
+1083	tooltip_upgrade	0		Upgrade this card using materials			
+1084	tooltip_favourite	0		Add this card to your favourites			
+1085	tooltip_exchange_more	0		Convert more			
+1086	tooltip_exchange_less	0		Convert less			
+1087	tooltip_exchange_common	0		Convert Sapphires into Emeralds			
+1088	tooltip_exchange_uncommon	0		Convert Emeralds into Sapphires or Rubies			
+1089	tooltip_exchange_rare	0		Convert Rubies into Emeralds or Diamonds			
+1090	tooltip_exchange_very_rare	0		Convert Diamonds into Rubies			
+1091	tooltip_exchange_token	0		Convert Legend Tokens into Sapphires			
+1092	common	0		Common			
+1093	uncommon	0		Uncommon			
+1094	rare	0		Rare			
+1095	super_rare	0		Very Rare			
+1096	lore	0		Lore			
+1097	recycle_dupes_message	0		Recycle {0} extra cards to receive:			
+1098	server_restart_pending_minutes	0		The game server will restart in {0} minute(s).			
+1099	server_restart_pending_seconds	0		The game server will restart in {0} second(s).			
+1100	server_restart_imminent	0		The game server is restarting now.			
+1101	tooltip_soft_currency_title	0		Copper Coins			
+1102	tooltip_hard_currency_title	0		Platinum Ingots			
+1103	tooltip_chapter_title	0		Chapter			
+1104	tooltip_mainmenu_play	0		Play against players of equal skill.			
+1105	artist	0		Artist: {0}			
+1106	tooltip_timer	0		Press to submit your turn.			
+1107	tooltip_shop_totalprice	0		Total cost			
+1108	tooltip_shop_quantity	0		Number of packs to purchase			
+1109	tooltip_shop_price	0		Cost			
+1110	login_version_mismatch	0		Game client is out of date. Apply the latest update to continue playing.			
+1111	ranked_mode	0		Ranked mode			
+1112	casual	0		Casual			
+1113	ranked	0		Ranked			
+1114	unnamed_deck_warning	0		Please give your deck a name:			
+1115	tooltip_deckmanager_enemycards	0		Creature Cards			
+1116	tooltip_deckmanager_friendcards	0		Support Cards			
+1117	tooltip_deckmanager_duplicate_deck	0		Duplicate Deck			
+1118	tooltip_deckmanager_delete_deck	0		Delete Deck			
+1119	random	0		Random			
+1120	tutorial_buildphase_12	0		<color=yellow><b>Effects</b></color> generally happen after a card has been encountered.			
+1121	tutorial_buildphase_11	0		This is an <color=yellow><b>Armour reward</b></color>.			
+1122	tutorial_buildphase_07	0		<color=yellow><b>Support cards</b></color> use <color=yellow><b>Gold</b></color>.			
+1123	tutorial_buildphase_26	1		Anything at the bottom of the card is a <color=yellow><b>reward</b></color>.			
+1124	tut_freeform_obj2	1		Freeform Objective 2			
+1125	tut_freeform_obj3	1		Freeform Objective 3			
+1126	tutorial_watchphase_14	0		Weapons have two numbers; <color=yellow><b>Attack</b></color> and <color=yellow><b>Durability</b></color>.			
+1127	tutorial_buildphase_16	0		Play <color=yellow><b>all</b></color> the cards onto the board by clicking on them.			
+1128	tut_mission4_objective	1		Elite Black Knight			
+1129	freeform1_01	0		Choose your own cards to beat Delrith!			
+1130	tutorial_buildphase_02	0		You can always put cards back into your hand or swap them.			
+1131	tutorial_buildphase_22	0		To complete this chapter you must place 3 cards before continuing.			
+1132	tutorial_watchphase_15	0		Your Legend is now strong enough to defeat this Creature.			
+1133	freeform2_01	0		Play any cards you want to defeat the King Black Dragon!			
+1134	tooltip_practice_unlock	0		Unlock this opponent by beating them in an easier difficulty.			
+1135	cardname_kril_tsutsaroth	1		K'ril Tsutsaroth			
+1136	effectdesc_kril_tsutsaroth	3		Kill your next Demon.			
+1137	cardname_zemouregal	1		Zemouregal			
+1138	effectdesc_zemouregal	3		Draw 3 Undead.\nDeal 3 damage to rival per Undead in your hand.\nDiscard all Undead.			
+1139	cardname_revenant_knight	1		Revenant Knight			
+1140	effectdesc_revenant_knight	3		Draw 1 Spell.\nGain 3 <i><b>Temporary</i></b> Attack.\n<i><b>Strike</i></b> rival.			
+1141	effectdesc_troll_shaman	3		Your next Spell is free.			
+1142	cardname_weaponmaster	1		Weaponmaster			
+1143	effectdesc_weaponsmaster	3		<i><b>Spend</i></b> 1 Equipment from your hand and gain 5 Weapon Attack.			
+1144	cardname_goblin_trickster	1		Goblin Trickster			
+1145	effectdesc_goblin_trickster	3		<i><b>Remove</b></i> a random Equipment from rival's deck.			
+1146	cardname_animated_book	1		Animated Book			
+1147	effectdesc_animated_book	3		<b><i>Spend</i></b> 1 Base Attack and draw 2 Spells.			
+1148	cardname_dwarven_miner	1		Dwarven Miner			
+1149	effectdesc_dwarven_miner	3		<i><b>Remove</b></i> 4 Cost from your next Equipment.			
+1150	cardname_crumble_undead	1		Crumble Undead			
+1151	effectdesc_crumble_undead	3		<i><b>Remove</b></i> 8 Health from your next Undead Creature.			
+1152	login_character_timeout	0		Login failed: Unable to retrieve account data. Please try again later.			
+1153	displayname_selection	0		Would you like to use your RuneScape displayname instead of your Chronicle name?			
+1154	tut_mission1_16	0		If you don't play a card into a slot it will be left empty and the Legend passes through.			
+1155	tut_mission1_15	0		Your Legend will now move on to the next card you placed			
+1156	tutorial_watchphase_20	0		If both Legends are still alive at the end of the 5th chapter then a final fight decides the winner!			
+1157	tut_mission3_09	0		Weapons have two numbers; <b>attack bonus</b> and <b>durability</b>.			
+1158	tutorial_buildphase_23	0		<color=yellow><b>Three cards</b></color> are drawn at the start of each Chapter after the 1st.			
+1159	cardname_combat_academy_tut	1		Combat Academy*			
+1160	tutorial_card1	1		Duel Tourn Tutorial			
+1161	tutorial_card2	1		Tutorial Imp			
+1162	tutorial_watchphase_11	0		Most Legends cannot have more than 30 Health.			
+1163	submit_turn	0		Submit your turn			
+1164	cardname_ramokee_hoarder	1		Ramokee Hoarder			
+1165	carddesc_ramokee_hoarder	3		Add 2 random Equipment to your hand.			
+1166	ladykeli	1		Lady Keli			
+1167	lady_keli_effect_dec	3		Add <color=blue>Snap Shot</color>, <color=blue>Dazing Shot</color>, and <color=blue>Deadshot</color> to your hand.			
+1168	stinkears_cardname	1		Stinkears			
+1169	stinkears_effect_desc	3		Draw 2 Goblins.			
+1170	drunken_pirate_card_name	1		Drunken Pirate			
+1171	drunken_pirate_effect_desc	3		<i><b>Remove</b></i> 1 Gold from rival.			
+1172	cardname_stat_spy	1		Stat Spy			
+1173	stat_spy_effect_desc	3		Add up to 3 copies of cards from your rival's hand to your hand.			
+1174	title_practice	0		Choose Opponent			
+1175	title_practice_difficulty	0		Choose Difficulty			
+1176	exiled_kalphite_effectdesc	3		-2/-2 to rival's weapon.			
+1177	wizards_tower	1		Wizard's Tower			
+1178	wizard_tower_effect	3		Add a random spell to your hand			
+1179	dominion_tower	1		Dominion Tower			
+1180	dominion_tower_effect	3		Deal damage to your next Creature equal to the attack of your Rival's next Creature			
+1181	grand_exchange	1		Grand Exchange			
+1182	grand_exchange_effect	3		Reduce the cost of your next purchase by 3. Reduce the cost of your Rival's next purchase by 1.			
+1183	amuscut_ruins	1		Amuscut Ruins			
+1184	amuscat_ruins_effect	3		Your next Creature loses 4 health			
+1185	lumbridge_fields	1		Lumbridge Fields			
+1186	lumbridge_fields_effect	3		Your next Creature gains 2 health. Your Rival's next Creature gains 2 health.			
+1187	jaldraocht_pyramid	1		Jaldraocht Pyramid			
+1188	jaldraocht_pyramid_effect	3		Rival's next Creature loses 2 health			
+1189	quest_0	0		Defeat 10 Creature cards			
+1190	quest_1	0		Pay for 10 Support cards			
+1191	quest_2	0		Win 3 games			
+1192	quest_3	0		Pay for 20 Support cards			
+1193	quest_4	0		Defeat 20 Creature cards			
+1194	quest_5	0		Win 3 games			
+1195	quest_6	0		Defeat 50 Creature cards			
+1196	quest_7	0		Pay for 50 Support cards			
+1197	quest_8	0		Win 2 games with Linza			
+1198	quest_9	0		Win 2 games with The Raptor			
+1199	quest_10	0		Win 2 games with Ozan			
+1200	quest_11	0		Win 2 games with Ariane			
+1201	quest_12	0		Win 4 games with Linza			
+1202	quest_13	0		Win 4 games with The Raptor			
+1203	quest_14	0		Win 4 games with Ozan			
+1204	quest_15	0		Win 4 games with Ariane			
+1205	quest_16	0		Win 5 games with Linza or The Raptor.			
+1206	quest_17	0		Win 5 games with Ozan or Linza			
+1207	quest_18	0		Win 5 games with Linza or Ariane			
+1208	quest_19	0		Win 5 games with The Raptor or Ozan			
+1209	quest_20	0		Win 5 games with The Raptor or Ariane			
+1210	quest_21	0		Win 5 games with Ariane or Ozan			
+1211	quest_22	0		Win 20 games			
+1212	quest_23	0		Win 10 games with Linza or The Raptor			
+1213	quest_24	0		Win 10 games with Ozan or Linza			
+1214	quest_26	0		Win 10 games with The Raptor or Ozan			
+1215	quest_27	0		Win 10 games with The Raptor or Ariane			
+1216	quest_28	0		Win 10 games with Ariane or Ozan			
+1217	quest_locked_epic	0		Earn at least 20 levels [br]across your legends to [br]unlock epic quests			
+1218	quest_next_epic	0		New epic quest:[br]{0}			
+1219	quest_next_daily	0		New daily quest:[br]tomorrow			
+1220	quest_25	0		Win 10 games with Linza or Ariane			
+1221	quest_title_daily	0		Daily Quests			
+1222	quest_title_epic	0		Epic Quests			
+1223	mulligan_instruction	0		Select cards to be replaced.			
+1224	turn_selection	0		Turn Selection			
+1225	too_few_card_warning	0		For this mission it's advisable to place at least 3 cards. Are you sure you want to submit this turn?			
+1226	tooltip_continue	0		Press to continue			
+1227	extra_card	0		Extra card			
+1228	singleplayer	0		Practice			
+1229	the_gauntlet	0		The Gauntlet			
+1230	my_stats	0		My Stats			
+1231	multiplayer_button_data	0		Current Rank - {0} {1}			
+1232	pack_button_data	0		{0} to open			
+1234	collection_button_data	0		{0} new cards			
+1235	collection	0		Collection			
+1236	my_packs	0		My Packs			
+1237	coming_soon	0		Coming Soon			
+1238	stats_button_data	0		Total Level - {0}			
+1239	singleplayer_button_data	0		Master your skills			
+1240	store_button_data	0		Expand your collection			
+1241	casual_button_data	0		Play for fun			
+1242	collection_button_no_data	0		Build decks and craft new cards			
+1243	help_warning_failed_condition	0		Effect will not trigger!			
+1244	help_warning_missing_weapon	0		Legend will have no weapon!			
+1245	friends_header_offline	0		Offline Friends {0}			
+1246	friends_header_online	0		Friends {0}			
+1247	friends_header_requests	0		Friend Requests {0}			
+1248	friends_header_challenges	0		Challenge			
+1249	friends_header_blocked	0		Blocked Players {0}			
+1250	friends_status_online	0		Online			
+1251	friends_status_offline	0		Offline			
+1252	friends_status_blocked	0		Blocked			
+1253	friends_status_requested	0		Wants to be friends			
+1254	friends_status_challenging	0		Wants to play a game			
+1255	friends_status_challenged	0		Has been challenged			
+1256	friends_button_add	0		Add friend			
+1257	friends_add_friend_popup	0		Add Friend			
+1258	friends_enter_display_name	0		Enter a display name			
+1259	friends_send_request_button	0		Send			
+1260	friends_user_not_found	0		Username {0} not found!			
+1261	friends_invalid_username	0		Username {0} is not valid.			
+1262	friends_already_ignored	0		User {0} is in your ignore list.			
+1263	friends_already_requested	0		You have a pending request from {0}.			
+1264	friends_already_befriended	0		User {0} is already a friend.			
+1265	friends_adding_self	0		You cannot add yourself as a friend.			
+1266	friends_system_offline	0		The friends system is currently offline.			
+1267	friends_challenge_accepted	0		Accepted your challenge! Start game?			
+1268	friends_challenged_poup	0		Challenge!			
+1269	friends_challenged_popup_message	0		Has challenged you to a game!			
+1270	friends_challenged_popup_reject	0		Reject			
+1271	friends_challenged_popup_start	0		Start			
+1272	activity_connected	0		Online			
+1273	activity_disconnected	0		Offline			
+1274	activity_waiting_opponent	0		Waiting for an opponent			
+1275	activity_waiting_casual	0		Waiting for a casual match			
+1276	activity_waiting_ranked	0		Waiting for a ranked match			
+1277	activity_challenge	0		Playing a challenge match			
+1278	activity_casual	0		Playing a casual match			
+1279	activity_ranked	0		Playing a ranked match			
+1280	activity_practice	0		Playing a practice game			
+1281	activity_tutorial	0		Playing the tutorial			
+1282	activity_main_menu	0		Main menu			
+1283	activity_store	0		Browsing the store			
+1284	activity_deck_manager	0		Building a deck			
+1285	activity_crafting	0		Crafting cards			
+1286	unlocked_at_x	0		Unlocked at level {0}			
+1287	continue	0		Continue			
+1288	family_action	0		Action			
+1289	cardname_saradomin_godsword	1		Saradomin Godsword			
+1290	tutorial_buildphase_05	0		Your Legend needs more <color=yellow><b>Gold</b></color> before reaching this Support card.\n\nMake sure there are <color=yellow><b>Gold rewards</b></color> before it.			
+1291	the_blacksmith	0		The Blacksmith			
+1292	the_thief	0		The Thief			
+1293	the_tank	0		The Tank			
+1294	the_mage	0		The Mage			
+1295	defeat_lower_ranks	0		Defeat easier difficulties			
+1296	tooltip_soft_currency_desc	0		Spend on new card packs in the store.			
+1297	tooltip_hard_currency_desc	0		Spend on new card packs in the store.			
+1298	tooltip_dailyquests_desc	0		Complete quests to gain copper coins.			
+1299	tooltip_friends_desc	0		Manage friends and send game challenges.			
+1300	tooltip_options_desc	0		Change various game settings.			
+1301	tooltip_chapter_desc	0		The current chapter out of a total of five.			
+1302	tooltip_hud_gold_title	0		Gold			
+1303	tooltip_hud_attack_title	0		Total Attack			
+1304	tooltip_hud_weapon_title	0		Weapon			
+1305	tooltip_hud_health_title	0		Health			
+1306	tooltip_hud_armour_title	0		Armour			
+1307	tooltip_timer_title	0		Play			
+1308	first	0		1st			
+1309	campaign_button_content	0		Journey through Gielinor			
+1310	tooltip_attack_total	0		<b>Total:</b>			
+1311	tooltip_attack_raw	0		Base:			
+1312	tooltip_attack_weapon	0		Weapon:			
+1313	cardname_lexicus_runewright	1		Lexicus Runewright			
+1314	effectdesc_lexicus_runewright	3		Add 3 random spells to your hand.			
+1315	cardname_barricade	1		Barricade			
+1316	effectdesc_barricade	3		<i><b>Remove</b></i> 5 Attack from your next Creature.			
+1317	cardname_char	1		Char			
+1318	effectdesc_char	3		Gain Base Attack equal to <i><b>half</b></i> your Weapon Attack.\n<i><b>Remove</b></i> your weapon.			
+1319	chronicle_autoswitch	0		Your RuneScape displayname is no longer valid, so we've switched you to your Chronicle displayname. Once you have a valid RuneScape displayname you'll be able to switch back.			
+1320	chronicle_autoswitch_title	0		Displayname Changed			
+1321	displaynames	0		Displaynames			
+1322	displayname_invalid	0		Name invalid			
+1323	chronicle_displayname	0		Chronicle name			
+1324	runescape_displayname	0		RuneScape Name			
+1325	check	0		Check			
+1326	set	0		Set			
+1327	unknown_result	0		???			
+1331	second	0		2nd			
+1332	tooltip_quest_challenge_blocked	0		Quests can't be completed in challenges.			
+1333	bracket_bronze	0		Bronze			
+1334	bracket_silver	0		Silver			
+1335	bracket_gold	0		Gold			
+1336	bracket_platinum	0		Platinum			
+1337	bracket_diamond	0		Diamond			
+1338	friend_is_online	0		{0} is online			
+1339	friend_has_challenged	0	{0} = player name	{0} wants to play a game			
+1340	friend_has_requested_friend	0	{0} = player name	{0} wants to be your friend			
+1344	tutorial_buildphase_03	0		Your Legend will be too weak to defeat this Creature.\n\nPlace a <color=yellow><b>Base Attack reward</b></color> before it.			
+1345	card_tooltip_effect	0		Unique Effect			
+1346	card_tooltip_weapon	0		Weapon reward			
+1347	card_tooltip_gold	0		Gold reward			
+1348	card_tooltip_health_reward	0		Health reward			
+1349	card_tooltip_attack_reward	0		Base Attack reward			
+1350	submit_turn_death_warning	0		At least one of the cards  you have placed will result in your hero dying! Pick an alternative card or leave the slot empty.			
+1351	tutorial_buildphase_13	0		This is a <color=yellow><b>Gold reward</b></color>.\n\nCreatures drop <color=yellow><b>rewards</b></color> when defeated.			
+1352	tutorial_buildphase_14	0		This is a <color=yellow><b>Base Attack reward</b></color>.\n\nSupport cards drop <color=yellow><b>rewards</b></color> after the <color=yellow><b>Gold cost</b></color> has been paid.			
+1353	confirm_duplicate_deck	0		Are you sure you want to duplicate this deck?			
+1354	filter_no_legend	0		Remove legend filter			s
+1355	filter_hoarder	0		Show cards for Linza			
+1356	filter_tank	0		Show cards for The Raptor			
+1357	filter_glass_cannon	0		Show cards for Ariane			
+1358	filter_assassin	0		Show cards for Ozan			
+1359	filter_mutant	0		TODO			
+1360	filter_buffer	0		TODO			
+1362	filter_beast_master	0		TODO			
+1363	filter_gold_all	0		Show cards with any gold cost			
+1364	filter_gold_0	0		Show cards that cost 0 gold			
+1365	filter_gold_1	0		Show cards that cost 1 gold			
+1366	filter_gold_2	0		Show cards that cost 2 gold			
+1367	filter_gold_3	0		Show cards that cost 3 gold			
+1368	filter_gold_4	0		Show cards that cost 4 gold			
+1369	filter_gold_5	0		Show cards that cost 5 gold			
+1370	filter_gold_6	0		Show cards that cost 6 gold			
+1371	filter_gold_7_plus	0		Show cards that cost 7 or more gold			
+1372	filter_health_all	0		Show cards with any health			
+1373	filter_health_0	0		Show cards with 0 health			
+1374	filter_health_1	0		Show cards with 1 health			
+1375	filter_health_2	0		Show cards with 2 health			
+1376	filter_health_3	0		Show cards with 3 health			
+1377	filter_health_4	0		Show cards with 4 health			
+1378	filter_health_5	0		Show cards with 5 health			
+1379	filter_health_6	0		Show cards with 6 health			
+1380	filter_health_7_plus	0		Show cards with 7 or more health			
+1381	seperator_fight	0		Fight			
+1382	seperator_adventure	0		Adventure			
+1383	seperator_basic_decks	0		Basic Decks			
+1384	seperator_custom_decks	0		Custom Decks			
+1385	general	0		General			
+1386	no_search_results	0		No cards to display			
+1387	stat_tracker_2	0		Total Damage Taken			
+1388	stat_tracker_1	0		Total Gold Earnt			
+1389	stat_tracker_0	0		Cards Encountered			
+1390	chapters_played	0		Chapters Played			
+1391	tooltip_quest_blocked_general	0		You have no quests available for this mode.			
+1392	pack_button_shop	0		Buy more			
+1393	card_pack	0		Card Pack			
+1394	card	0		Card			
+1395	bronze	0		Bronze			
+1396	silver	0		Silver			
+1397	practice_silver_locked	0		Defeat a bronze legend to unlock			
+1398	practice_gold_locked	0		Defeat a silver legend to unlock			
+1399	practice_custom_deck	0		Play against your own decks			
+1400	card_draw_failed	0		Card couldn't be drawn			
+1401	tooltip_friends_offline	0		The friends system is currently offline.			
+1402	beta_title	0		Welcome to the Closed Beta			
+1403	beta_content	0		This is a real beta, so expect bugs and lots of changes. To make these changes we need your help.[br][br]Visit the Chronicle Forums to leave your feedback and bug reports.			
+1404	beta_subtitle	0		Get ready to play!			
+1405	heropack_continuehint	0		Press the Legend box to open it.			
+1406	hero_pack_title	0		Introducing The Raptor!			
+1407	hero_pack_body	0		One of Gielinor's most mysterious heroes is now yours to command!			
+1408	tooltip_title_forums	0		Forums			
+1409	tooltip_title_twitter	0		Twitter			
+1410	tooltip_title_facebook	0		Facebook			
+1411	tooltip_body_forums	0		Talk to other players and the developers on our forums.			
+1412	tooltip_body_twitter	0		Visit our Twitter page.			
+1413	tooltip_body_facebook	0		Visit our Facebook page.			
+1414	tooltip_duplicate_toggle	0		Select decks to duplicate			
+1415	tooltip_delete_toggle	0		Select decks to delete			
+1416	help_warning_does_nothing	0		Effect will not be useful!			
+1417	tutorial_confirm	0		Are you sure you want to skip?			
+1418	tutorial_skip	0		Skip Tutorial			
+1419	players_online	0		{0} Players Online			
+1420	server_shutdown_pending_minutes	0		The game server will shut down in {0} minute(s).			
+1421	server_shutdown_pending_seconds	0		The game server will shut down in {0} second(s).			
+1422	server_shutdown_imminent	0		The game server is shutting down now.			
+1423	cancel_challenge	0		Cancel the challenge?			
+1424	cancelled	0		Cancelled			
+1425	challenge_cancelled	0		Your friend cancelled the challenge.			
+1426	declined	0		Declined			
+1427	challenge_declined	0		Your friend has declined the challenge.			
+1428	offboarding_popup_title	0		The Adventure Begins!			
+1429	offboarding_popup_body	0		You're now free to play Chronicle.\n\nUse Practice to master the different Legends and their unique play styles.\n\nIf you wish to replay the tutorial you can do so in the Game Options.			
+1430	quest_29	0		Play 3 Practice Games			
+1431	quest_30	0		Play a Multiplayer Game			
+1432	currency_classic_expansion_token	0		Classic Tokens			
+1433	confirm_apply_settings	0		Apply the current settings?			
+1434	graphics_restart_message	0		Some settings may require the game to be restarted before being applied.			
+1435	error_friends_too_many	0		Failed to add friend: your friends list is full.			
+1436	error_friends_recipient_too_many	0		Failed to add friend: the recipient's friends list is full.			
+1437	error_friends_add_general	0		Friends system operation failed. Please try again later.			
+1438	stage_complete	0		Stage Complete			
+1439	prestige_points	0		Prestige Points			
+1440	prestige_boost	0		Prestige Boost			
+1441	stage_end_content	0		Congratulations, you have completed a Ranked Stage!			
+1442	new_stage_content_no_promotion	0		A new stage begins! You start in the {0} bracket, Rank {1}			
+1443	new_stage_content_promotion	0		Congratulations! You are now in the {0} bracket!			
+1444	reward	0		Reward			
+1445	new_stage_begins	0		New Stage Begins			
+1446	ranks	0		Ranks			
+1447	linza_deckguide_1	6		Modify weapons in this attack and durability guide deck			
+1448	linza_deckguide_2	6		Build large weapons to damage your rivals			
+1449	raptor_deckguide_1	6		This guide deck reveals the true power of armour and health			
+1450	raptor_deckguide_2	6		Attack is the greatest form of defence in this guide deck			
+1451	ozan_deckguide_1	6		Kill big creatures and disrupt your enemy with tricks and traps			
+1452	ozan_deckguide_2	6		Buy big and hit bigger in this weapon focused guide deck			
+1453	ariane_deckguide_1	6		A big hand equals big damage in this draw focused guide deck			
+1454	ariane_deckguide_2	6		Fast and frequent damage is at the core of this guide deck			
+1455	starter_deck_custom	0		Full custom			
+1456	starter_deck_custom_desc	0		Build your deck from scratch			
+1457	starter_deck_locked	0		Unlocks at level {0}			
+1458	title_deck_creation	0		Choose a Deck			
+1459	deck_creation_desc	0		Create a deck from scratch or use one of our 20 card, guide decks			
+1460	cardname_ellaron	1		Ellaron			
+1461	effectdesc_ellaron	3		Add 1 Health to all Creatures in play.			
+1462	cardname_lord_iban	1		Lord Iban			
+1463	effectdesc_lord_iban	3		Swap the Attack and Health of all Creatures in play.			
+1464	cardname_silver_light	1		Silverlight			
+1465	effectdesc_silver_light	3		<i><b>Remove</b></i> 2 Health from all your Demons in play.			
+1466	cardname_lumpnose	1		Lumpnose			
+1467	effectdesc_lumpnose	3		<b><i>Remove</i></b> 2 Health from all your Goblins in play.			
+1468	cardname_keris	1		Keris			
+1469	effectdesc_keris	3		<i><b>Remove</b></i> 3 Health from all your Kalphites in play.			
+1470	cardname_banshee	1		Banshee			
+1471	effectdesc_banshee	3		<i><b>Remove</b></i> 1 Attack and 1 Health from all your Creatures in play.			
+1472	carddesc_ellaron	2		...and on, and on, and on...			
+1473	carddesc_lord_iban	2		The self-proclaimed son of Zamorak, ruler of the Underground Pass.			
+1474	carddesc_silver_light	2		Your average magic, demon-slaying family heirloom.			
+1475	carddesc_banshee	2		Wails when someone's about to die. Then kills them.			
+1476	beta_update_title	0		Latest Update			
+1477	beta_update_date	0		21/01/2016			
+1478	beta_update_content	0		- New Stats Page \n- 12 New Cards \n- Bug fixes \n\nSee the forums for more details.			
+1479	tooltip_title_reddit	0		Reddit			
+1480	tooltip_body_reddit	0		Visit the Chronicle subreddit.			
+1481	tooltip_tokens_avail	0		Your available legend tokens.			
+1482	cardname_monkfish	1		Monkfish			
+1483	carddesc_monkfish	2		Fish fish			
+1484	effectdesc_monkfish	3		Add 8 Health to rival.			
+1485	cardname_antifire_potion	1		Antifire Potion			
+1486	effectdesc_antifire_potion	3		<b><i>Remove</i></b> 5 Attack from your next Dragon.			
+1487	carddesc_antifire_potion	2		No, no, breathe fire not snow.			
+1488	cardname_black_market	1		Black Marketeer			
+1489	carddesc_black_market	2		Welcome to NoValueTown			
+1490	effectdesc_black_market	3		Add 1 cost to rival's next Support.			
+1491	cardname_chaos_druid	1		Chaos Druid			
+1492	chaos_druid_effect_desc	3		Add 1 random Potion to your hand.			
+1493	chaos_druid_card_desc	2		Remember kids; never take potions given to your by Chaos Druids.			
+1494	cardname_crystal_flask	1		Crystal Flask			
+1495	crystal_flask_card_desc	2		And they told me never to mix my drinks ...			
+1496	crystal_flask_effect_desc	3		<i><b>Spend</i></b> 1 Potion from your hand and gain 7 Health.			
+1497	cardname_corpse_archer	1		Corpse Archer			
+1498	corpse_archer_card_desc	2		Did it shoot with with a leg bone? Who shoots a leg bone? Honestly?			
+1499	Kaqemeex	1		Kaqemeex			
+1500	carddesc_Kaqemeex	2		K. A. Q. E. No ... E. No ...E. Forget it, give me the pen, I'll write it myself.			
+1501	kaqemeex_effect_desc	3		Discard 1 random card.\nAdd 2 random Potions to your hand.			
+1502	cardname_dragith_nurn	1		Dragith Nurn			
+1503	dragith_nurn_effect_desc	3		Discard 2 random cards.\nDraw 2 Undead cards.\nGain 1 <b><i>Temporary</i></b> Attack.			
+1504	carddesc_dragith_nurn	2		Long dead. Not a problem for a necromancer.			
+1505	cardname_falador_party_room	1		Falador Party Room			
+1506	carddesc_falador_party_room	2		Cheer Up. I don't care what you've lost, it's a party.			
+1507	falador_party_room_effect_desc	3		Draw 4 cards.\nDiscard 2 random cards.			
+1508	cardname_papa_mambo	1		Papa Mambo			
+1509	carddesc_papa_mambo	2		Papa might love Mambo, but he isn't such of fan of your Rival.			
+1510	papa_mambo_effect_desc	3		<i><b>Spend</i></b> 2 Potions from your hand and add 4 Health to all rival's Creatures.			
+1511	cardname_ice_troll	1		Ice Troll			
+1512	carddesc_ice_troll	2		Look at that club. How big was the thing it killed to get that?			
+1513	cardname_kalphite_egg_chamber	1		Kalphite Egg Chamber			
+1514	carddesc_kalphite_egg_chamber	2		Eggs			
+1515	kalphite_egg_chamber_effect_desc	3		Add 2 random Kalphites to your hand.			
+1516	cardname_unstable_concoction	1		Unstable Concoction			
+1517	carddesc_unstable_concoction	2		This is not for the gin. Repeat, NOT for gin.			
+1518	unstable_concoction_effect_desc	3		<i><b>Spend</i></b> 1 Potion from your hand and deal 5 damage to rival.			
+1519	cardname_50_ships_mufassah	1		50 Ships Mufassah			
+1520	carddesc_50_ships_mufassah	2		Say hello to one of history's worst pirates.			
+1521	50_ships_mufassah_effectdesc	3		If you have a Ship in your hand, gain 5 Gold			
+1522	cardname_barker_toad	1		Barker Toad			
+1523	cardname_cannonball	1		Cannonball			
+1525	carddesc_cannonball	2		A huge ball of iron and destruction. Which does 1 damage.			
+1526	cannonball_effectdesc	3		Deal 1 damage to rival.			
+1527	barker_toad_effectdesc	3		<i><b>Spend</i></b> 1 <color=blue>Cannonball</color> from your hand and deal 7 damage to rival.			
+1528	cardname_cabin_boy	1		Cabin Boy			
+1529	cabin_boy_effectdesc	3		Discard 1 random card.\nAdd 6 <color=blue>Cannonball</color> to your deck.			
+1530	carddesc_cabin_boy	2		Something a little piratical.			
+1531	cardname_chain_shot_cannon	1		Chain Shot Cannon			
+1532	chain_shot_cannon_effectdesc	3		<i><b>Spend</i></b> 1 <color=blue>Cannonball</color> from your hand and discard 3 random cards from rival's deck.			
+1533	carddesc_chain_shot_cannon	2		Used for obliterating mainsails, creating chaos, and hanging your smalls up to dry.			
+1534	cardname_lady_zay	1		Lady Zay			
+1536	carddesc_lady_zay	2		She's called the Lady Zay			
+1537	cardname_meg	1		Meg			
+1538	meg_effectdesc	3		<i><b>Remove</b></i> 4 cost from your next Ship.			
+1539	carddesc_meg	2		Shut up, Meg.			
+1540	cardname_pirates_hideout	1		Pirates' Hideout			
+1541	pirates_hideout_effectdesc	3		Add 3 <color=blue>Cannonball</color> to your hand.\nTake 3 damage.			
+1542	carddesc_pirates_hideout	2		Come out, come out, wherever you arrrgh.			
+1543	cardname_rowdy_cannoneer	1		Rowdy Cannoneer			
+1544	rowdy_cannoneer_effectdesc	3		Deal 4 damage to rival.\nAdd 1 <color=blue>Cannonball</color> to both player's hands.			
+1545	carddesc_rowdy_cannoneer	2		Non-canon			
+1546	cardname_saucy_wench_deckhand	1		Saucy Wench Deckhand			
+1547	saucy_wench_deckhand_effectdesc	3		<i><b>Remove</b></i> 1 Gold from rival.\nAdd 2 <color=blue>Cannonball</color> to your hand.			
+1548	saucy_wench_deckhand	2		Piratical things.			
+1549	cardname_the_adventurous	1		The Adventurous			
+1550	the_adventurous_effectdesc	3		Add 3 random Pirates to your hand.			
+1551	carddesc_the_adventurous	2		It's a state of mind, as much as it is a ship.			
+1552	cardname_cannoneer	1		Sticky Sanders			
+1553	cannoneer_effectdesc	3		<i><b>Spend</i></b> 1 <color=blue>Cannonball</color> from your hand and deal 4 damage to rival. Add <color=blue>Sticky Sanders</color> to your hand.			
+1554	carddesc_cannoneer	2		I came here to do two things; fire cannons and eat jam. And I'm all out of jam.			
+1555	lady_zay_effectdesc	3		Deal 3 damage to rival, plus 3 damage per <color=blue>Cannonball</color> in your hand.\nDiscard all <color=blue>Cannonball</color>.			
+1556	stats_win_rate	0		{0}% Win Rate			
+1557	stats_days_left	0		{0} days remaining			
+1558	stats_season	0		Season {0}			
+1559	card_collection	0		Card Collection			
+1560	total_collection	0		Total Collection			
+1561	total_level	0		Total Level			
+1562	my_legends	0		My Legends			
+1563	my_title	0		My Title			
+1564	my_badge	0		My Badge			
+1565	vanescula	0		Vanescula			
+1566	the_vampyre	0		The Vampyre			
+1567	filter_leecher	0		Show cards for Vanescula			
+1568	leecher	0		Vanescula			
+1569	cardname_flying_leech	1		Flying Leech			
+1570	effectdesc_flying_leech	3		<i><b>Steal</b></i> up to 2 Health from rival.			
+1571	treus_dayth	1		Treus Dayth			
+1572	effectdesc_ahrim_the_blighted	3		<i><b>Remove</b></i> 1 Base Attack from rival.			
+1573	cardname_blood_share	1		Blood Share			
+1574	effectdesc_blood_shared	3		Transfer 1 Health to all Creatures in play.			
+1575	cardname_crypt	1		Crypt			
+1576	effectdesc_crypt	3		Gain Health equal to your Total Attack.\n<i><b>Remove</b></i> weapon.			
+1577	cardname_fiyr_shade	1		Fiyr Shade			
+1578	effectdesc_fiyr_shade	3		<i><b>Spend</b></i> 1 Base Attack and add <color=blue>Shade Remains</color> to your hand.			
+1579	cardname_gadderanks	1		Gadderanks			
+1580	cardname_haemalchemist	1		Haemalchemist			
+1581	effectdesc_haemalchemist	3		Add Health to rival's next Creature equal to your next Creature's Health.			
+1582	show_unowned_cards	0		Show Craftable Cards			
+1583	cardname_haunted_leech	1		Haunted Leech			
+1584	effectdesc_haunted_leech	3		Steal up to 4 Health from rival.			
+1585	cardname_hunger	1		Hunger			
+1586	effectdesc_hunger	3		<i><b>Remove</b></i> 5 Health.			
+1587	cardname_malak	1		Malak			
+1588	effectdesc_malak	3		Gain Health equal to <b><i>half</i></b> your next Creature's Health.			
+1589	cardname_meiyerditch_prisoner	1		Meiyerditch Prisoner			
+1590	effectdesc_meiyerditch_prisoner	3		Draw 1 card.			
+1591	cardname_ranis_drakan	1		Ranis Drakan			
+1592	effectdesc_ranis_drakan	3		<i><b>Half</b></i> the Health of both Legends.			
+1593	cardname_shade_remains	1		Shade Remains			
+1594	effectdesc_shade_remains	3		Gain 2 <i><b>Temporary</b></i> Attack.			
+1595	cardname_dreadnaut	1		Dreadnaut			
+1596	effectdesc_torag_the_corrupted	3		Discard 2 random Spells from rival's deck.			
+1597	cardname_vampyre_power	1		Vampyre Power			
+1598	effectdesc_vampyre_form	3		<i><b>Remove</b></i> weapon and all Armour.\nIncrease Max Health by 10.			
+1599	cardname_vampyre_trader	1		Vampyre Trader			
+1600	effectdesc_vampyre_trader	3		<i><b>Remove</b></i> 7 Health.			
+1601	cardname_vyrewatch	1		Vyrewatch			
+1602	effectdesc_vyrewatch	3		<i><b>Steal</b></i> up to 5 Health from rival.\nDiscard 1 random card from rival's hand.			
+1603	cardname_werewolf_rebel	1		Werewolf Rebel			
+1604	effectdesc_werewolf_rebel	3		<b><i>Remove</i></b> 2 Health.\nDeal 4 damage to rival.			
+1605	cardname_worthy_opponent	1		Worthy Opponent			
+1606	effectdesc_worthy_opponent	3		If your next Creature has 10 or more Health, gain 1 Base Attack.			
+1607	cardname_wyrd	1		Wyrd			
+1608	effectdesc_wyrd	3		Remove 4 Health from all rival's Creatures in play.\nRemove 2 Health from all your Creatures in play.			
+1609	cardname_sap_life_force	1		Sap Life Force			
+1610	effectdesc_sap_life_force	3		<i><b>Steal</b></i> up to 2 Health from your next Creature.			
+1611	cardname_rush_of_strength	1		Rush of Strength			
+1612	effectdesc_rush_of_strength	3		<b><i>Remove</i></b> 10 Health.\nGain 3 <b><i>Temporary</i></b> Attack.			
+1613	cardname_safalaan_hallow	1		Safalaan Hallow			
+1614	effectdesc_safalaan_hallow	3		Draw 1 Vampyre.			
+1615	cardname_mass_drain	1		Mass Drain			
+1616	effectdesc_mass_drain	3		Steal up to 1 Health from all Creatures in play.			
+1617	card_alpha_werewolf	1		Alpha Werewolf			
+1618	effectdesc_alpha_werewolf	3		Deal 4 damage to Rival.\nOr\n<i><b>Mortal:</b></i> Deal 8 damage to rival.			
+1619	cardname_gorge	1		Gorge			
+1620	effectdesc_gorge	3		Steal up to 3 Health\nOr\n<i><b>Mortal:</b></i> Steal up to 7 Health from rival.			
+1621	cardname_gravekreeper	1		Gravecreeper			
+1622	effectdesc_gravekreeper	3		If you have 4 or more Allies in your hand, deal 15 damage to rival.\nAlways discard all Allies.			
+1623	cardname_shadow_stalk	1		Shadow Stalk			
+1624	effectdesc_shadow_stalk	3		<i><b>Battle</b></i> rival.\nOr\n<i><b>Mortal:</b></i> <b><i>Strike</i></b> rival.			
+1625	cardname_terror_dog	1		Terror Dog			
+1626	effectdesc_terror_dog	3		Gain 1 <i><b>Temporary</b></i> Attack.\nOr\n<b><i>Mortal:</i></b> Gain 4 <i><b>Temporary</b></i> Attack.			
+1627	confirm_apply_settings_monitor	0		You may need to reload the game to change active monitor. Apply the current graphical settings?			
+1628	family_vampyre	0		Vampyre			
+1629	emotes_hello_leecher01	0		Charmed, I'm sure...			
+1630	emotes_praise_leecher01	0		My my, I am impressed!			
+1631	emotes_silly_leecher01	0		They say I have no heart, but I just had one for breakfast.			
+1632	emotes_sorry_leecher01	0		I suppose I should be sorry...			
+1633	emotes_taunt_leecher01	0		I'll squash you like a blood mite!			
+1634	emotes_thanks_leecher01	0		You have my thanks.			
+1635	card_tooltip_keyword_mortal	0		<i><b>Mortal</b></i>\nHappens if your Legend has 15 or less Health.			
+1636	card_tooltip_keyword_remove	0		<i><b>Remove</b></i>\nReduces a stat or removes a weapon if able.			
+1637	card_tooltip_keyword_half	0		<b><i>Half</i></b>\nRounded up.			
+1638	card_tooltip_keyword_steal	0		<b><i>Steal</i></b>\nSteals only as much as your Legend can have.			
+1639	vanescula_deckguide_1	6		Stay strong by sapping health from creatures and rivals alike.			
+1640	vanescula_deckguide_2	6		Unlock more power at the cost of sacrificing your own health.			
+1641	login_not_authorised	0		Login failed: Unauthorised account.			
+1642	tooltip_hand_size_rival	0		Number of cards your rival has out of a maximum of 10.			
+1643	tooltip_hand_size	0		Number of cards in your hand out of a maximum of 10.			
+1644	tooltip_title_hand_size	0		Cards in Hand			
+1645	help_warning_steals_nothing	0		Nothing will be stolen.			
+1646	help_warning_steal_max_health	0		Already on max health. [br]No health will be stolen!			
+1647	automation_deck	6		Automation Deck			
+1648	cardback_name_standard	0		Classic			
+1649	cardback_name_patched	0		Pioneer			
+1650	cardback_name_horns	0		Beast Master			
+1651	cardback_name_wings	0		Phoenix			
+1652	cardback_name_explosion	0		Magma			
+1653	cardback_name_scratched	0		Chaotic			
+1654	cardback_desc_standard	0		The original Chronicle card back.			
+1655	cardback_desc_patched	0		For those that broke new ground and forged the path ahead.			
+1656	cardback_desc_horns	0		Taming the wild beasts of Gielinor is a tough job and it deserves a worthy prize.			
+1657	cardback_desc_wings	0		From the flames of death a golden Phoenix is born.			
+1658	cardback_desc_explosion	0		The molten heart of the Wilderness bubbles with power.			
+1659	cardback_desc_scratched	0		There's a little chaos in all of us. Unleash yours.			
+1660	cardback_available	0		Available			
+1661	cardback_active	0		Equipped			
+1662	cardback_unequipped	0		Equip			
+1663	cardback_locked	0		Locked			
+1664	cardback_store	0		Visit Store			
+1665	cardback_page_title	0		Custom Backs			
+1666	cardback_status_soon	0		Coming Soon!			
+1667	confirm_restore_defaults	0		Restore all advanced settings to their default values?			
+1668	confirm_apply_settings_texture	0		You will need to reload the game for the texture quality to change. Apply the current graphical settings?			
+1669	friends_invalid_character	0		One of the characters in that name is not valid.			
+1670	leaderboards_missing_data	0		No players found			
+1671	leaderboards_gold_bracket	0		Gold league			
+1672	leaderboards_silver_bracket	0		Silver league			
+1673	leaderboards_bronze_bracket	0		Bronze league			
+1674	leaderboards_position	0		Position			
+1675	leaderboards_rank	0		Rank			
+1676	leaderboards_prestige	0		Prestige			
+1677	leaderboards_player_name	0		Player Name			
+1678	leaderboards_my_rank	0		My Rank			
+1679	leaderboards_top_10	0		Top 10			
+1680	leaderboards_title	0		Title			
+1681	leaderboards_emblem	0		Emblem			
+1682	leaderboards_fav_deck	0		Fav Deck			
+1683	leaderboards_win_rate	0		Win%			
+1684	leaderboards_season_info	0		Season Info			
+1685	leaderboards_stage	0		Stage			
+1686	leaderboards_season_end_title	0		Season Ends In			
+1687	leaderboards_stage_end_title	0		Stage Ends In			
+1688	leaderboards_countdown_days	0		{0} days {1} hours			
+1689	leaderboards_countdown_hours	0		{0} hours			
+1690	leaderboards_unknown	0		Unknown			
+1691	leaderboards_ending_now	0		Ending now			
+1692	leaderboards_performance	0		Form			
+1693	multiplayer_content	0		Face off against other players			
+1694	skill_challenge_attack_1	0		Have 5 Base Attack in one game			
+1695	skill_challenge_attack_2	0		Kill Dagannoth Sentinel in one hit			
+1696	skill_challenge_attack_3	0		Kill 4 enemies in one chapter, taking no damage from them			
+1697	skill_challenge_attack_4	0		Overkill an enemy by 4 attack			
+1698	skill_challenge_attack_5	0		Have 7 Base Attack in one game			
+1699	skill_challenge_attack_6	0		Kill 10 enemies in one hit in a game			
+1700	skill_challenge_attack_7	0		Finish a game with double the attack of your rival			
+1701	skill_challenge_attack_8	0		Have 9 Base Attack in one game			
+1702	skill_challenge_attack_9	0		Kill Undead Dragon in one hit			
+1703	skill_challenge_attack_10	0		Have 7 Temporary Attack in a game			
+1704	skill_challenge_attack_11	0		Kill 4 penguins and win the game			
+1705	skill_challenge_attack_12	0		Overkill an enemy by 10 attack			
+1706	skill_challenge_attack_13	0		Kill your rival with Duel Tournament when you're at 1 health			
+1707	skill_challenge_attack_14	0		Have 12 Base Attack in a game			
+1708	skill_challenge_attack_15	0		Kill the King Black Dragon twice in one chapter			
+1709	skill_challenge_attack_16	0		Buy Amulet of Fury twice in a game			
+1710	skill_challenge_attack_17	0		Win a game with 1 Base Attack			
+1711	skill_challenge_attack_18	0		Kill Gluttonous Behemoth in one hit			
+1712	skill_challenge_attack_19	0		Initiate Battles with your rival 4 times in a chapter			
+1713	title_0	0		Iron Fist			
+1714	title_1	0		Blood Runner			
+1715	title_2	0		Butcher			
+1716	title_3	0		Meathead			
+1717	title_4	0		Unnecessary Violence			
+1718	title_5	0		Steel Fist			
+1719	title_6	0		Grunt			
+1720	title_7	0		Unstoppable			
+1721	title_8	0		Overpowered			
+1722	title_9	0		Brute			
+1723	title_10	0		Mithril Fist			
+1724	title_11	0		Bone Crusher			
+1725	title_12	0		Soldier			
+1726	title_13	0		Glass Fist			
+1727	title_14	0		Unhappy Feet			
+1728	title_15	0		Specialist			
+1729	title_16	0		Destroyer			
+1730	title_17	0		To The Death			
+1731	title_18	0		Commander			
+1732	title_19	0		Adamantite Fist			
+1733	title_20	0		Dragonheart			
+1734	title_21	0		Justicar			
+1735	title_22	0		Fury			
+1736	title_23	0		Underdog			
+1737	title_24	0		Captain			
+1738	title_25	0		One Punch Legend			
+1739	title_26	0		Duelist			
+1740	title_27	0		Warrior			
+1741	new_player_title	0		Rookie			
+1742	skill_attack	0		Attack			
+1743	skill_magic	0		Magic			
+1744	skill_smithing	0		Smithing			
+1745	title_28	0		Spellcaster			
+1746	title_29	0		Empty Handed			
+1747	title_30	0		Collector			
+1748	title_31	0		Initiate			
+1749	title_32	0		Hoarder			
+1750	title_33	0		Abracadabra			
+1751	title_34	0		Apprentice			
+1752	title_35	0		Magic Strike			
+1753	title_36	0		The Blue			
+1754	title_37	0		Disciple			
+1755	title_38	0		The Red			
+1756	title_39	0		Lunar			
+1757	title_40	0		Enlightened			
+1758	title_41	0		The Green			
+1759	title_42	0		Scribe			
+1760	title_43	0		Diviner			
+1761	title_44	0		Magic Blast			
+1762	title_45	0		Enchanter			
+1763	title_46	0		Enchanted			
+1764	title_47	0		White Magician			
+1765	title_48	0		The Grey			
+1766	title_49	0		Mystic			
+1767	title_50	0		Proctor			
+1768	title_51	0		Balanced			
+1769	title_52	0		Acolyte			
+1770	title_53	0		Spellmaster			
+1771	title_54	0		Black Magician			
+1772	title_55	0		Adept			
+1773	title_56	0		Forger			
+1774	title_57	0		Smithy			
+1775	title_58	0		Hearthless			
+1776	title_59	0		Stablehand			
+1777	title_60	0		Slasher			
+1778	title_61	0		Beer Jacket			
+1779	title_62	0		Metalworker			
+1780	title_63	0		Razor Sharp			
+1781	title_64	0		Industrious			
+1782	title_65	0		Armourer			
+1783	title_66	0		Gearhead			
+1784	title_67	0		Hardened			
+1785	title_68	0		Weaponsmith			
+1786	title_69	0		Weapon Trader			
+1787	title_70	0		Curator			
+1788	title_71	0		Bladesmith			
+1789	title_72	0		Aviansie Blade			
+1790	title_73	0		Nothing Ventured			
+1791	title_74	0		Hammersmith			
+1792	title_75	0		Odachi			
+1793	title_76	0		Armadylean Protector			
+1794	title_77	0		Blurite Master			
+1795	title_78	0		Tetsu Adept			
+1796	title_79	0		Zarosian Fire			
+1797	title_80	0		Axesmith			
+1798	title_81	0		Hammer of Thor			
+1799	title_82	0		Pulverizer			
+1800	title_83	0		Bronze Master			
+1801	account_suspended	0		Account Suspended			
+1802	negative_credit_lockout	0		Suspended due to negative credit. Contact support@rschronicle.com or visit RSChronicle.com for more info.			
+1803	cardname_dragonset	1		Dragon Set			
+1804	cardname_dragonarrows	1		Dragon Arrows			
+1805	dragonarrows_effectdesc	3		Gain 4 <i><b>Temporary</b></i> Attack.			
+1806	dragonset_effectdesc	3		Add 2 copies of  <color=blue>Dragon Arrows</color> to your hand.			
+1807	cardname_lady_raven	1		Lady Raven			
+1808	Lady_raven_effectdesc	3		Deal Damage equal to your total Gold.			
+1809	cardname_entangle	1		Entangle			
+1810	cardname_wise_old_man	1		Wise Old Man			
+1811	cardname_shield_dome	1		Shield Dome			
+1812	cardname_ravenous_snail	1		Ravenous Snail			
+1813	entangle_effectdesc	3		Deal Damage to your next Creature equal to your hand size.			
+1814	wise_old_man_effectdesc	3		Deal Damage to all your Creatures equal to your hand size.			
+1815	shield_dome_effectdesc	3		Gain Armour equal to half your hand size.			
+1816	shop_category_card_backs	0		Card Backs			
+1817	shop_subcategory_trending	0		Trending			
+1818	shop_subcategory_discount	0		Sale			
+1819	shop_product_1H_basic_booster	4		2 Basic Boosters			
+1820	shop_product_6_basic_booster	4		6 Basic Boosters			
+1821	shop_product_36_basic_booster	4		36 Basic Boosters			
+1822	shop_desc_1H_basic_booster	5		A set of 2 booster card packs			
+1823	shop_desc_6_basic_booster	5		A set of 6 booster card packs			
+1824	shop_desc_12_basic_booster	5		A set of 12 booster card packs			
+1825	shop_desc_36_basic_booster	5		A set of 36 booster card packs			
+1826	shop_buy_platinum	0		Buy Platinum			
+1827	shop_selected_item	0		Selected Item			
+1828	shop_select_a_category	0		Select a Category			
+1829	shop_current_balance	0		Current Balance			
+1830	shop_final_balance	0		Final Balance			
+1831	shop_product_12_basic_booster	4		12 Basic Boosters			
+1832	login_shutdown_pending	0		The server is about to shut down for scheduled maintenance. Please try again soon.			
+1833	skill_challenge_smithing_1	0		Have a weapon with 7 attack			
+1834	skill_challenge_smithing_2	0		Have a weapon with 4 durability			
+1835	skill_challenge_smithing_3	0		Win a game as Linza without equipping a weapon			
+1836	skill_challenge_smithing_4	0		Kill 8 enemies with a weapon in one game			
+1837	skill_challenge_smithing_5	0		Heal 10 health using Drunken Dwarf			
+1838	skill_challenge_smithing_6	0		Have a weapon with 12 attack			
+1839	skill_challenge_smithing_7	0		Equip 8 weapons in a game			
+1840	skill_challenge_smithing_8	0		Play 5 equipment cards in one game			
+1841	skill_challenge_smithing_9	0		Have a weapon with 8 durability			
+1842	skill_challenge_smithing_10	0		Destroy a weapon using Toolbelt			
+1843	skill_challenge_smithing_11	0		Gain 10 gold from Varrock Museum in one go			
+1844	skill_challenge_smithing_12	0		Have a weapon with 15 attack and 15 durability			
+1845	skill_challenge_smithing_13	0		Defeat your rival using Hurl Weapon			
+1846	skill_challenge_smithing_14	0		Have a weapon with 20 attack			
+1847	skill_challenge_smithing_15	0		Earn 20 Armour from Armadylean Golem in one go			
+1848	skill_challenge_smithing_16	0		Buy Full Tetsu and Tetsu Katana in one chapter.			
+1849	skill_challenge_smithing_17	0		Earn 10 attack with Char in one go			
+1850	skill_challenge_smithing_18	0		Have a weapon with 22 attack			
+1851	skill_challenge_smithing_19	0		Deal 30 damage with a Pulverise			
+1852	skill_challenge_magic_1	0		Cast 6 spells in a game			
+1853	skill_challenge_magic_2	0		Win a game with no cards in hand at the end			
+1854	skill_challenge_magic_3	0		Win a game with a full hand at the end			
+1855	skill_challenge_magic_4	0		Draw 7 extra cards in one game			
+1856	skill_challenge_magic_5	0		Defeat your rival using a Spell card			
+1857	skill_challenge_magic_6	0		Deal 20 damage with one Spell			
+1858	skill_challenge_magic_7	0		Use Wizard Trailborn and Archmage Sedridor on the same card			
+1859	skill_challenge_magic_8	0		Spend 15 gold on spells in a game			
+1860	skill_challenge_magic_9	0		Play all Lunar spells in the same chapter			
+1861	skill_challenge_magic_10	0		Cast 4 Spells in one chapter			
+1862	skill_challenge_magic_11	0		Buy both spell books in one game			
+1863	skill_challenge_magic_12	0		Deal 30 damage with Earth Blasts in one game			
+1864	skill_challenge_magic_13	0		Kill 4 enemies without fighting them in one game			
+1865	skill_challenge_magic_14	0		Discard 20 cards with Earth Waves in a game			
+1866	skill_challenge_magic_15	0		Draw 10 cards in a chapter			
+1867	skill_challenge_magic_16	0		Buy both spell books in a chapter			
+1868	skill_challenge_magic_17	0		Defeat Balance Elemental without taking damage			
+1869	skill_challenge_magic_18	0		Cast 12 Spells in a game			
+1870	skill_challenge_magic_19	0		Deal 40 damage with Earth Blasts in a game			
+1871	skill_info_attack	0		Gain Attack XP by building your Base Attack and getting Temporary Attack during online games.			
+1872	skill_info_magic	0		Gain Magic XP by drawing extra cards and playing Spells during online games.			
+1873	skill_info_smithing	0		Gain Smithing XP by gathering weapons and building their attack and durability during online games.			
+1874	offline_progression_text	0		Level up your skills by playing in ranked or casual mode!			
+1875	title_unlocked_by_level	0		Unlocked by reaching level {0} in this skill			
+1876	title_unlocked_by_challenge	0		"Unlocked by completing the challenge ""{0}"""			
+1877	title_unlock_challenge	0		Beat this challenge to earn XP and unlock a new title			
+1878	title_unlock_level	0		Reach level {0} to unlock a new title or challenge			
+1879	my_chronicle	0		My Chronicle			
+1880	my_chronicle_content	0		Stats & Customisation			
+1881	dungeoneering	0		Dungeoneering			
+1882	title_84	0		Recruit			
+1883	title_85	0		Underpowered			
+1884	title_86	0		Conjurer			
+1885	title_87	0		Fortune Teller			
+1886	title_88	0		Unrefined			
+1887	title_89	0		Bronzeworker			
+1888	title_90	0		The Mage			
+1889	title_91	0		The Blacksmith			
+1890	title_92	0		The Thief			
+1891	title_93	0		The Tank			
+1892	title_94	0		The Vampyre			
+1893	title_95	0		Pioneer			
+1894	title_96	0		Rookie			
+1895	card_tooltip_keyword_exhaust	0		<i><b>Exhaust</b></i>[br]Temporarily sets your Legend's base attack to 1.[br]Overrides all other temporary attack.			
+1896	tooltip_attack_temporary	0		Temporary:			
+1897	tooltip_attack_exhausted	0		Exhaust:			
+1898	displayname_unavailable	0		Display name unavailable, please select another			
+1899	displayname_needed	0		Your Chronicle account has no display name set. Please choose one.			
+1900	set_displayname	0		Set Display Name			
+1901	email_validation_title	0		Email Validation			
+1902	email_validation_body	0		Your Chronicle email address needs to be validated before you can continue playing.\n\nPlease check your inbox and click the verification link.\n\nTo resend the email press below.			
+1903	resend_email	0		Resend Email			
+1904	email_sent	0		Email Sent			
+1905	beta_rewards_title_text	0		Closed Beta Rewards			
+1906	beta_rewards_body	0		Welcome back to Chronicle! As a Closed Beta player you have been awarded these exclusive Pioneer rewards!			
+1907	beta_reward_card_back	0		Card Back			
+1908	beta_reward_title	0		Title			
+1909	beta_reward_pioneer	0		Pioneer			
+1910	beta_reward_emblem	0		Emblem			
+1911	beta_reward_currency	0		2,000 Coins			
+1912	beta_reward_claim	0		Claim Rewards			
+1913	quest_milestone_1	0		1st Win of the Day!			
+1914	quest_milestone_2	0		3rd Win of the Day!			
+1915	quest_milestone_3	0		5th Win of the Day!			
+1916	quest_milestone_4	0		10th Win of the Day!			
+1917	quest_milestone_5	0		15th Win of the Day!			
+1918	quest_milestone_6	0		20th Win of the Day!			
+1919	quest_milestone_7	0		7th Milestone Victory			
+1920	quest_milestone_8	0		8th Milestone Victory			
+1921	quest_milestone_9	0		9th Milestone Victory			
+1922	tooltip_skilling_attack_title	0		Attack Xp			
+1923	tooltip_skilling_magic_title	0		Magic Xp			
+1924	tooltip_skilling_smithing_title	0		Smithing Xp			
+1925	skilling	0		Skilling			
+1926	title	0		Title			
+1927	emblem	0		Badge			
+1928	customisation	0		Customisation			
+1929	short_title_soft_currency	0		Coins			
+1930	short_title_hard_currency	0		Ingots			
+1931	leave_draft	0		Are you sure you want to retire from dungeoneering?			
+1932	draft_choose_enter_currency	0		Enter Dungeoneering			
+1933	draft_choose_archetype	0		Choose a Legend			
+1934	title_draft_mode	0		Dungeoneering			
+1935	title_draft_game_over_0	0		Tier 0 Chest			
+1936	title_draft_game_over_1	0		Tier 1 Chest			
+1937	title_draft_game_over_2	0		Tier 2 Chest			
+1938	title_draft_game_over_3	0		Tier 3 Chest			
+1939	title_draft_game_over_4	0		Tier 4 Chest			
+1940	title_draft_game_over_5	0		Tier 5 Chest			
+1941	title_draft_game_over_6	0		Tier 6 Chest			
+1942	title_draft_game_over_7	0		Tier 7 Chest			
+1943	title_draft_game_over_8	0		Tier 8 Chest			
+1944	title_draft_game_over_9	0		Tier 9 Chest			
+1945	draft_collect_rewards	0		Rewards			
+1946	retire	0		Retire			
+1947	activity_waiting_draft	0		Waiting for a dungeoneering match			
+1948	activity_draft	0		Playing a dungeoneering match			
+1949	activity_drafting	0		In dungeoneering			
+1950	tooltip_dungeoneering_backpack_body	0		View loot you have got from the dungeon			
+1951	tooltip_dungeoneering_backpack_title	0		Backpack			
+1952	tooltip_dungeoneering_entrance_coins	0		Play using Copper Coins			
+1953	tooltip_dungeoneering_entrance_ingots	0		Play using Platinum Ingots			
+1954	tooltip_dungeoneering_stats_body	0		View how expensive your deck is			
+1955	tooltip_dungeoneering_stats_title	0		Deck Cost			
+1956	tooltip_dungeoneering_deckrewards_title	0		Deck Rewards			
+1957	tooltip_dungeoneering_deckrewards_body	0		See how many rewards are in your deck			
+1958	instruction_draft_start_battle	0		Start next battle			
+1959	instruction_draft_move_room	0		Move to next room			
+1960	instruction_draft_choose_room	0		Choose a room to move into			
+1961	instruction_draft_open_chest	0		Open chest or move to next room			
+1962	instruction_draft_next_dungeon	0		Open chest or descend to next dungeon			
+1963	title_draft_round	0		Round {0}/{1}			
+1964	instruction_draft_round	0		Choose two cards each round			
+1965	title_buy_chest	0		Buy chest?			
+1966	draft_confirm_retire	0		Are you sure you wish to escape the dungeons?\n\nYou will get:			
+1967	draft_mode_complete	0		Congratulations, you have reached the end of the Daemonheim dungeons!\n\nYou leave with:			
+1968	draft_mode_loss	0		The dangerous dungeons have got the better of you!\n\nYou leave with:			
+1969	your_deck	0		Your Deck			
+1970	your_rewards	0		Your Rewards			
+1971	quest_31	0		Win 5 games with Linza or Vanescula			
+1972	quest_32	0		Win 5 games with Vanescula or The Raptor			
+1973	quest_33	0		Win 5 games with Ariane or Vanescula			
+1974	quest_34	0		Win 5 games with Ozan or Vanescula			
+1975	quest_35	0		Win 10 games with The Raptor or Vanescula			
+1976	quest_36	0		Win 10 games with Linza or Vanescula			
+1977	quest_37	0		Win 10 games with Vanescula or Ozan			
+1978	quest_38	0		Win 10 games with Vanescula or Ariane			
+1979	draft_entry_description	0		Build a deck and explore the dungeons of Daemonheim, getting more rewards the further you go!			
+1980	chest_subtitle_consolation	0		Completed game!			
+1981	chest_subtitle_practice	0		One-off reward			
+1982	chest_milestone_tracking	0		{0} games until next reward: {1} coins.			
+1983	dungeoneering_button_data	0		Draft your way to victory			
+1984	dungeoneering_button_locked	0		Unlocks at total level {0}			
